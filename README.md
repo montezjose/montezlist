@@ -1,1111 +1,1546 @@
-# montezlist
-Canais 
+group,A FAZENDA 12
+ext,A FAZENDA 12,http://gobr.ml:8080/Eduardo/1234/72642
+ext,A FAZENDA 12*,http://gobr.ml:8080/Eduardo/1234/72644
+ext,A FAZENDA 12 HD,http://gobr.ml:8080/Eduardo/1234/72643
+ext,A FAZENDA 12 HD*,http://gobr.ml:8080/Eduardo/1234/72650
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Variedade",A Fazenda 12
-http://lb.kstream.org/aovivo/HD_A_FAZENDA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",A Fazenda 12 [Alter]
-http://lb.kstream.org/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Variedade",Canal do Boi
-http://lb.kstream.org/aovivo/SD_CANAL_DO_BOI/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Curta!
-http://lb.kstream.org/aovivo/SD_CURTA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Curta! HD
-http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Curta! HD [Alter]
-http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Variedade",Discovery Home & Health
-http://lb.kstream.org/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryHomeHealthHD.ar" group-title="Variedade",Discovery Home & Health HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Discovery Home & Health HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="E.uk" group-title="Variedade",E!
-http://lb.kstream.org/aovivo/SD_E/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="E.uk" group-title="Variedade",E! HD
-http://lb.kstream.org/aovivo/HD_E/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",E! HD [Alter]
-http://lb.kstream.org/aovivo/HD_E_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Fishtv.br" group-title="Variedade",Fish TV
-http://lb.kstream.org/aovivo/SD_FISH_TV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Fishtv.br" group-title="Variedade",Fish TV HD
-http://lb.kstream.org/aovivo/HD_FISH_TV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Fish TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_FISH_TV_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="food-network-rus" group-title="Variedade",Food Network
-http://lb.kstream.org/aovivo/SD_FOOD_NETWORK/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="food-network-rus" group-title="Variedade",Food Network HD
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Food Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="fox-life" group-title="Variedade",Fox Life
-http://lb.kstream.org/aovivo/SD_FOX_LIFE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Variedade",Fox Life HD
-http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Fox Life HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Gnt.br" group-title="Variedade",GNT
-http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Gnthd.br" group-title="Variedade",GNT HD
-http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",GNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HGTV.us" group-title="Variedade",HGTV
-http://lb.kstream.org/aovivo/SD_HGTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HGTV.pl" group-title="Variedade",HGTV HD
-http://lb.kstream.org/aovivo/HD_HGTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",HGTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_HGTV_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Mais Globosat
-http://lb.kstream.org/aovivo/SD_MAIS_GLOBOSAT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Mais Globosat HD
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Mais Globosat HD [Alter]
-http://lb.kstream.org/aovivo/HD_MAIS_GLOBOSAT_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Polishop.br" group-title="Variedade",Polishop TV
-http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Shoptime.br" group-title="Variedade",Shoptime
-http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="tlc-russia" group-title="Variedade",TLC
-http://lb.kstream.org/aovivo/SD_TLC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Variedade",TLC HD
-http://lb.kstream.org/aovivo/HD_TLC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",TLC HD [Alter]
-http://lb.kstream.org/aovivo/HD_TLC_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Variedade",Trutv
-http://lb.kstream.org/aovivo/SD_TRUTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Variedade",Trutv HD
-http://lb.kstream.org/aovivo/HD_TRUTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Viva.uk" group-title="Variedade",Viva
-http://lb.kstream.org/aovivo/SD_VIVA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Viva.br" group-title="Variedade",Viva HD
-http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Viva HD [Alter]
-http://lb.kstream.org/aovivo/HD_VIVA_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Woohoo.br" group-title="Variedade",Woohoo
-http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Variedade",Woohoo HD
-http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,REGIONAIS GLOBO
+ext,GLOBO INTERNACIONAL HD,http://gobr.ml:8080/Eduardo/1234/63460
+ext,GLOBO PORTUGAL HD,http://gobr.ml:8080/Eduardo/1234/65182
+Globosp.br,GLOBO SP,http://gobr.ml:8080/Eduardo/1234/40222
+Globosp.br,GLOBO SP HD,http://gobr.ml:8080/Eduardo/1234/40220
+Globosp.br,GLOBO SP HD*,http://gobr.ml:8080/Eduardo/1234/40219
+Globosp.br,GLOBO SP FHD*,http://gobr.ml:8080/Eduardo/1234/13957
+Globorj.br,GLOBO RJ*,http://gobr.ml:8080/Eduardo/1234/211
+Globorj.br,GLOBO RJ HD*,http://gobr.ml:8080/Eduardo/1234/203
+Globorj.br,GLOBO RJ HD,http://gobr.ml:8080/Eduardo/1234/40201
+Globorj.br,GLOBO RJ FHD,http://gobr.ml:8080/Eduardo/1234/40625
+Redeamazonica.br,GLOBO ACRE,http://gobr.ml:8080/Eduardo/1234/70689
+Tvbahia.br,GLOBO BAHIA*,http://gobr.ml:8080/Eduardo/1234/215
+Tvbahia.br,GLOBO TV BAHIA HD*,http://gobr.ml:8080/Eduardo/1234/40196
+Tvbahia.br,GLOBO TV BAHIA FHD,http://gobr.ml:8080/Eduardo/1234/40630
+GloboBrasilia.br,GLOBO BRASILIA,http://gobr.ml:8080/Eduardo/1234/216
+GloboBrasilia.br,GLOBO BRASILIA HD,http://gobr.ml:8080/Eduardo/1234/726
+ext,GLOBO BRASILIA HD*,http://gobr.ml:8080/Eduardo/1234/72664
+GloboBrasilia.br,GLOBO BRASILIA FHD,http://gobr.ml:8080/Eduardo/1234/40215
+ext,GLOBO BOA VISTA,http://gobr.ml:8080/Eduardo/1234/72667
+ext,GLOBO BOA VISTA HD,http://gobr.ml:8080/Eduardo/1234/72666
+Centroamerica.br,GLOBO TV CENTRO AMERICA CUIABA*,http://gobr.ml:8080/Eduardo/1234/40195
+Centroamerica.br,GLOBO CENTRO AMERICA CUIABA FHD,http://gobr.ml:8080/Eduardo/1234/40637
+GloboEPTVCampinas.br,GLOBO EPTV CAMPINAS HD*,http://gobr.ml:8080/Eduardo/1234/40212
+GloboEPTVCampinas.br,GLOBO EPTV CAMPINAS FHD**,http://gobr.ml:8080/Eduardo/1234/40636
+ext,GLOBO EPTV RIBEIRAO PRETO HD*,http://gobr.ml:8080/Eduardo/1234/9725
+GloboEPTVRibeiraoPreto.br,GLOBO EPTV RIBEIRAO PRETO*,http://gobr.ml:8080/Eduardo/1234/40214
+GloboEPTVCampinas.br,GLOBO EPTV SAO CARLOS*,http://gobr.ml:8080/Eduardo/1234/40213
+TVGazeta.br,GLOBO GAZETA SUL ES,http://gobr.ml:8080/Eduardo/1234/70683
+TVGazeta.br,GLOBO GAZETA SUL ES. FHD,http://gobr.ml:8080/Eduardo/1234/70684
+ext,GLOBO INTER TV CABO FRIO HD,http://gobr.ml:8080/Eduardo/1234/40733
+Inttvcabugi.br,GLOBO INTER TV CABUGI**,http://gobr.ml:8080/Eduardo/1234/209
+Globominas.br,INTER TV GRANDE MINAS HD,http://gobr.ml:8080/Eduardo/1234/77986
+Globominas.br,GLOBO INTER TV GRANDE MINAS FHD,http://gobr.ml:8080/Eduardo/1234/77992
+ext,GLOBO INTER TV NATAL,http://gobr.ml:8080/Eduardo/1234/70680
+ext,GLOBO INTER TV NATAL HD,http://gobr.ml:8080/Eduardo/1234/72670
+Globominas.br,GLOBO INTER TV DOS VALES FHD,http://gobr.ml:8080/Eduardo/1234/77975
+Globominas.br,GLOBO MINAS*,http://gobr.ml:8080/Eduardo/1234/63461
+Globominas.br,GLOBO MINAS HD,http://gobr.ml:8080/Eduardo/1234/40217
+Globominas.br,GLOBO MINAS HD*,http://gobr.ml:8080/Eduardo/1234/72665
+Globominas.br,GLOBO MINAS FHD,http://gobr.ml:8080/Eduardo/1234/40635
+ext,GLOBO MACAPA,http://gobr.ml:8080/Eduardo/1234/72669
+ext,GLOBO MACAPA HD,http://gobr.ml:8080/Eduardo/1234/72668
+Globorecife.br,GLOBO NORDESTE,http://gobr.ml:8080/Eduardo/1234/212
+Globorecife.br,GLOBO NORDESTE HD,http://gobr.ml:8080/Eduardo/1234/40207
+Globorecife.br,GLOBO NORDESTE  FHD*,http://gobr.ml:8080/Eduardo/1234/40206
+ext,GLOBO PARAIBA HD,http://gobr.ml:8080/Eduardo/1234/70687
+Redeamazonica.br,GLOBO PORTO VELHO,http://gobr.ml:8080/Eduardo/1234/70681
+Redeamazonica.br,GLOBO PORTO VELHO HD,http://gobr.ml:8080/Eduardo/1234/70682
+Redeamazonica.br,GLOBO REDE AMAZONICA HD*,http://gobr.ml:8080/Eduardo/1234/40203
+ext,GLOBO NSC BLUMENAU HD,http://gobr.ml:8080/Eduardo/1234/40638
+ext,GLOBO NSC TV CHAPECO HD,http://gobr.ml:8080/Eduardo/1234/63463
+ext,GLOBO NSC FLORIANOPOLIS*,http://gobr.ml:8080/Eduardo/1234/72652
+ext,GLOBO NSC FLORIANOPOLIS HD*,http://gobr.ml:8080/Eduardo/1234/72651
+ext,GLOBO NSC FLORIANOPOLIS HD**,http://gobr.ml:8080/Eduardo/1234/40633
+Rpccuritiba.br,GLOBO RPC HD**,http://gobr.ml:8080/Eduardo/1234/38084
+Rpccuritiba.br,GLOBO RPC CURITIBA**,http://gobr.ml:8080/Eduardo/1234/9711
+Rpccuritiba.br,GLOBO RPC PARANAENSE FHD,http://gobr.ml:8080/Eduardo/1234/40632
+ext,GLOBO SERGIPE HD,http://gobr.ml:8080/Eduardo/1234/40634
+GloboAnhangueraGoias.br,GLOBO TV ANHANGUERA GOIANIA*,http://gobr.ml:8080/Eduardo/1234/62332
+GloboAnhangueraGoias.br,GLOBO TV ANHANGUERA GOIANIA HD**,http://gobr.ml:8080/Eduardo/1234/62333
+GloboAnhangueraGoias.br,GLOBO TV ANHANGUERA FHD**,http://gobr.ml:8080/Eduardo/1234/40631
+ext,GLOBO TV ASA BRANCA HD,http://gobr.ml:8080/Eduardo/1234/40732
+ext,GLOBO TV FRONTEIRA,http://gobr.ml:8080/Eduardo/1234/40731
+ext,GLOBO TV INTERGRACAO,http://gobr.ml:8080/Eduardo/1234/40730
+Tvliberalbelem.br,TV LIBERAL BELEM,http://gobr.ml:8080/Eduardo/1234/49
+Tvliberalbelem.br,GLOBO TV LIBERAL FHD,http://gobr.ml:8080/Eduardo/1234/40629
+ext,GLOBO TV MIRANTE COCAIS,http://gobr.ml:8080/Eduardo/1234/40739
+ext,GLOBO TV MIRANTE HD,http://gobr.ml:8080/Eduardo/1234/40628
+ext,GLOBO TV MORENA HD,http://gobr.ml:8080/Eduardo/1234/40627
+ext,GLOBO TV RIO SUL HD,http://gobr.ml:8080/Eduardo/1234/40738
+ext,GLOBO TV SUDOESTE,http://gobr.ml:8080/Eduardo/1234/40737
+Tvtembauru.br,GLOBO TV TEM BAURU,http://gobr.ml:8080/Eduardo/1234/40736
+Tvtembauru.br,GLOBO TV TEM S.J RIO PRETO,http://gobr.ml:8080/Eduardo/1234/63465
+Tvtembauru.br,TV TEM SOROCABA,http://gobr.ml:8080/Eduardo/1234/63464
+Tvtribuna.br,GLOBO TV TRIBUNA SANTOS*,http://gobr.ml:8080/Eduardo/1234/40735
+Vangsaojchd.br,GLOBO TV VANGUARDA,http://gobr.ml:8080/Eduardo/1234/40734
+Verdesmares.br,GLOBO TV VERDES MARES FORTALEZA,http://gobr.ml:8080/Eduardo/1234/48
+Verdesmares.br,GLOBO TV VERDES MARES HD**,http://gobr.ml:8080/Eduardo/1234/40626
+Verdesmares.br,TV VERDES MARES FORTALEZA FHD H265,http://gobr.ml:8080/Eduardo/1234/63462
+TVGazeta.br,GLOBO VITORIA HD,http://gobr.ml:8080/Eduardo/1234/70688
+ext,TV CLUBE HD ( GLOBO PIAUI),http://gobr.ml:8080/Eduardo/1234/70686
+ext,TV RIO SUL HD ( GLOBO INTERIOR RJ),http://gobr.ml:8080/Eduardo/1234/70685
+GloboPortoAlegre.br,RBS TV*,http://gobr.ml:8080/Eduardo/1234/138
+GloboPortoAlegre.br,RBS HD,http://gobr.ml:8080/Eduardo/1234/63025
+GloboPortoAlegre.br,RBS FHD H265,http://gobr.ml:8080/Eduardo/1234/72653
 
-#EXTINF:0 tvg-id="AyE.mx" group-title="Filme e Serie",A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="AyE.mx" group-title="Filme e Serie",A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",A&E HD [Alter]
-http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="mgm-int" group-title="Filme e Serie",AMC
-http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="AMC.uk" group-title="Filme e Serie",AMC HD
-http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",AMC HD [Alter]
-http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="AXN.bg" group-title="Filme e Serie",AXN
-http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="AXN.it" group-title="Filme e Serie",AXN HD
-http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",AXN HD [Alter]
-http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Filme e Serie",Canal Brasil
-http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Canalbrasilhd.br" group-title="Filme e Serie",Canal Brasil HD
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Canal Brasil HD [Alter]
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Filme e Serie",Cinemax
-http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Filme e Serie",Cinemax HD
-http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Cinemax HD [Alter]
-http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="FX.uk" group-title="Filme e Serie",FX
-http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Filme e Serie",FX HD
-http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",FX HD [Alter]
-http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="fox-crime" group-title="Filme e Serie",Fox
-http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="fox-hd" group-title="Filme e Serie",Fox HD
-http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Fox HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Filme e Serie",Fox Premium 1
-http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Filme e Serie",Fox Premium 1 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Fox Premium 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filme e Serie",Fox Premium 2
-http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filme e Serie",Fox Premium 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Fox Premium 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="history2-rus" group-title="Filme e Serie",History 2
-http://lb.kstream.org/aovivo/SD_H2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ISat.ar" group-title="Filme e Serie",I-Sat
-http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",I-Sat HD
-http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Filme e Serie",Lifetime
-http://lb.kstream.org/aovivo/SD_LIFETIME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Filme e Serie",Lifetime HD
-http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Lifetime HD [Alter]
-http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Megapix.br" group-title="Filme e Serie",Megapix
-http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Megapix.br" group-title="Filme e Serie",Megapix HD
-http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Megapix HD [Alter]
-http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Filme e Serie",Paramount
-http://lb.kstream.org/aovivo/SD_PARAMOUNT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Filme e Serie",Paramount HD
-http://lb.kstream.org/aovivo/HD_PARAMOUNT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Paramount HD [Alter]
-http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Primebox Brasil
-http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Primebox Brasil HD
-http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="set" group-title="Filme e Serie",Sony
-http://lb.kstream.org/aovivo/SD_SONY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="set" group-title="Filme e Serie",Sony HD
-http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Sony HD [Alter]
-http://lb.kstream.org/aovivo/HD_SONY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Space.br" group-title="Filme e Serie",Space
-http://lb.kstream.org/aovivo/SD_SPACE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Filme e Serie",Space HD
-http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Space HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPACE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Filme e Serie",Studio Universal
-http://lb.kstream.org/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Filme e Serie",Studio Universal HD
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Studio Universal HD [Alter]
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Filme e Serie",Syfy
-http://lb.kstream.org/aovivo/SD_SYFY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Filme e Serie",Syfy HD
-http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Syfy HD [Alter]
-http://lb.kstream.org/aovivo/HD_SYFY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="24dok" group-title="Filme e Serie",TBS
-http://lb.kstream.org/aovivo/SD_TBS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TBSHD.us" group-title="Filme e Serie",TBS HD
-http://lb.kstream.org/aovivo/HD_TBS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",TBS HD [Alter]
-http://lb.kstream.org/aovivo/HD_TBS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TCM.uk" group-title="Filme e Serie",TCM
-http://lb.kstream.org/aovivo/SD_TCM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TCM.uk" group-title="Filme e Serie",TCM HD
-http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",TCM HD [Alter]
-http://lb.kstream.org/aovivo/HD_TCM_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="tnt" group-title="Filme e Serie",TNT
-http://lb.kstream.org/aovivo/SD_TNT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="tnt" group-title="Filme e Serie",TNT HD
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",TNT HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Filme e Serie",TNT Series
-http://lb.kstream.org/aovivo/SD_TNT_SERIES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Filme e Serie",TNT Series HD
-http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",TNT Series HD [Alter]
-http://lb.kstream.org/aovivo/HD_TNT_SERIES_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Universal TV
-http://lb.kstream.org/aovivo/SD_UNIVERSAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Universal TV HD
-http://lb.kstream.org/aovivo/HD_UNIVERSAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Universal TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Filme e Serie",Warner Channel
-http://lb.kstream.org/aovivo/SD_WARNER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Filme e Serie",Warner Channel HD
-http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Serie",Warner Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_WARNER_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,CANAIS ABERTO
+BandRede.br,BAND**,http://gobr.ml:8080/Eduardo/1234/253
+BandRede.br,BAND HD*,http://gobr.ml:8080/Eduardo/1234/263
+BandRede.br,BAND FHD*,http://gobr.ml:8080/Eduardo/1234/848
+BandRede.br,BAND  FHD H265,http://gobr.ml:8080/Eduardo/1234/36777
+BandRede.br,BAND BAHIA,http://gobr.ml:8080/Eduardo/1234/63913
+BandRede.br,BAND DF HD,http://gobr.ml:8080/Eduardo/1234/63914
+BandRede.br,BAND CAMPINAS HD,http://gobr.ml:8080/Eduardo/1234/63915
+BandRede.br,BAND GOIAS HD,http://gobr.ml:8080/Eduardo/1234/63919
+BandRede.br,BAND PARANA HD,http://gobr.ml:8080/Eduardo/1234/63918
+BandRede.br,BAND RJ HD,http://gobr.ml:8080/Eduardo/1234/63916
+BandRede.br,BAND RS HD,http://gobr.ml:8080/Eduardo/1234/63917
+Canalbrasil.br,CANAL BRASIL*,http://gobr.ml:8080/Eduardo/1234/259
+Canalbrasil.br,CANAL BRASIL HD,http://gobr.ml:8080/Eduardo/1234/256
+Rederecord.br,RECORD,http://gobr.ml:8080/Eduardo/1234/109
+Rederecord.br,RECORD HD**,http://gobr.ml:8080/Eduardo/1234/140
+Rederecord.br,RECORD FHD,http://gobr.ml:8080/Eduardo/1234/63911
+Rederecord.br,RECORD  FHD H265,http://gobr.ml:8080/Eduardo/1234/36837
+Rederecord.br,RECORD ATALAIA HD (S.E),http://gobr.ml:8080/Eduardo/1234/63908
+Rederecord.br,RECORD BELEM HD,http://gobr.ml:8080/Eduardo/1234/63910
+Rederecord.br,RECORD BRASILIA HD,http://gobr.ml:8080/Eduardo/1234/14928
+Rederecord.br,RECORD BRASILIA HD,http://gobr.ml:8080/Eduardo/1234/29633
+Rederecord.br,RECORD CAMPINAS HD*,http://gobr.ml:8080/Eduardo/1234/29632
+Rederecord.br,RECORD GOIAS HD,http://gobr.ml:8080/Eduardo/1234/63906
+Rederecord.br,RECORD ITAPOAN*,http://gobr.ml:8080/Eduardo/1234/14929
+Rederecord.br,RECORD ITAPOAN HD (BA),http://gobr.ml:8080/Eduardo/1234/63903
+Rederecord.br,RECORD MINAS HD,http://gobr.ml:8080/Eduardo/1234/63904
+Rederecord.br,RECORD RJ HD**,http://gobr.ml:8080/Eduardo/1234/14931
+Rederecord.br,RECORD RS HD,http://gobr.ml:8080/Eduardo/1234/63905
+Rederecord.br,RECORD SC,http://gobr.ml:8080/Eduardo/1234/63907
+Rederecord.br,RECORD TV LITORAL HD(SANTOS),http://gobr.ml:8080/Eduardo/1234/63912
+Rederecord.br,RECORD UBERLANDIA HD,http://gobr.ml:8080/Eduardo/1234/63909
+Rederecord.br,RIC TV RECORD HD (P.R),http://gobr.ml:8080/Eduardo/1234/13934
+Redebrasil.br,REDE BRASIL,http://gobr.ml:8080/Eduardo/1234/136
+Redetv.br,REDE TV*,http://gobr.ml:8080/Eduardo/1234/12421
+Redetv.br,REDE TV HD*,http://gobr.ml:8080/Eduardo/1234/139
+Redetv.br,REDETV FHD,http://gobr.ml:8080/Eduardo/1234/62779
+Sbt.br,SBT,http://gobr.ml:8080/Eduardo/1234/108
+Sbt.br,SBT HD,http://gobr.ml:8080/Eduardo/1234/133
+Sbt.br,SBT FHD*,http://gobr.ml:8080/Eduardo/1234/12417
+Sbt.br,SBT FHD H265,http://gobr.ml:8080/Eduardo/1234/36839
+Redetv.br,REDE TV FHD H265,http://gobr.ml:8080/Eduardo/1234/36838
+Sbt.br,SBT TV ARATU HD (BA),http://gobr.ml:8080/Eduardo/1234/63895
+Sbt.br,SBT BRASILIA HD,http://gobr.ml:8080/Eduardo/1234/63896
+Sbt.br,SBT REDE MASSA HD(P.R),http://gobr.ml:8080/Eduardo/1234/63901
+Sbt.br,SBT RJ HD,http://gobr.ml:8080/Eduardo/1234/63897
+Sbt.br,SBT RS HD,http://gobr.ml:8080/Eduardo/1234/63898
+Sbt.br,SBT SERRA DOURADA (GO),http://gobr.ml:8080/Eduardo/1234/63902
+Tvtribuna.br,SBT TV TRIBUNA HD (E.S),http://gobr.ml:8080/Eduardo/1234/63899
+ext,SBT TV ALTEROSA HD (M.G),http://gobr.ml:8080/Eduardo/1234/63900
+Tvbrasil.br,TV BRASIL,http://gobr.ml:8080/Eduardo/1234/102
+Tvcamara.br,TV CAMARA,http://gobr.ml:8080/Eduardo/1234/78
+Tvcultura.br,TV CULTURA,http://gobr.ml:8080/Eduardo/1234/104
+ext,TV DIARIO,http://gobr.ml:8080/Eduardo/1234/61615
+TVGazeta.br,TV GAZETA,http://gobr.ml:8080/Eduardo/1234/85
 
-#EXTINF:0 tvg-id="animal_rus" group-title="Documentario",Animal Planet
-http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="animal-hd" group-title="Documentario",Animal Planet HD
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Animal Planet HD [Alter]
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="discov_rus" group-title="Documentario",Discovery Channel
-http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Documentario",Discovery Channel HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Discovery Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="discov_sci" group-title="Documentario",Discovery Science
-http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="discov_sci" group-title="Documentario",Discovery Science HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Discovery Science HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Documentario",Discovery Theater
-http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Documentario",Discovery Theater HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Discovery Theater HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Documentario",Discovery Turbo
-http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",Discovery Turbo HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Discovery Turbo HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Documentario",Discovery World
-http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Documentario",Discovery World HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Discovery World HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Futura.br" group-title="Documentario",Futura
-http://lb.kstream.org/aovivo/SD_FUTURA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Futura.br" group-title="Documentario",Futura HD
-http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="history-rus" group-title="Documentario",History
-http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="H2.uk" group-title="Documentario",History 2 HD
-http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",History 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_H2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Documentario",History HD
-http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",History HD [Alter]
-http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="id-extra" group-title="Documentario",ID
-http://lb.kstream.org/aovivo/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Documentario",ID HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",ID HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="natgeowild" group-title="Documentario",Natgeo Wild
-http://lb.kstream.org/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="wild-hd" group-title="Documentario",Natgeo Wild HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",Natgeo Wild HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="natgeo" group-title="Documentario",National Geographic
-http://lb.kstream.org/aovivo/SD_NAT_GEO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Documentario",National Geographic HD
-http://lb.kstream.org/aovivo/HD_NAT_GEO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Documentario",National Geographic HD [Alter]
-http://lb.kstream.org/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,NOTÍCIAS
+Bandnews.br,BAND NEWS,http://gobr.ml:8080/Eduardo/1234/67
+Bandnews.br,BAND NEWS HD,http://gobr.ml:8080/Eduardo/1234/844
+Bandnews.br,BAND NEWS FHD,http://gobr.ml:8080/Eduardo/1234/13981
+Bandnews.br,BANDNEWS FHD H265,http://gobr.ml:8080/Eduardo/1234/36778
+ext,CNN BRASIL,http://gobr.ml:8080/Eduardo/1234/62674
+ext,CNN BRASIL HD,http://gobr.ml:8080/Eduardo/1234/62675
+ext,CNN BRASIL FHD,http://gobr.ml:8080/Eduardo/1234/62676
+Globonews.br,GLOBO NEWS*,http://gobr.ml:8080/Eduardo/1234/40209
+Globonews.br,GLOBO NEWS HD*,http://gobr.ml:8080/Eduardo/1234/213
+Globonews.br,GLOBO NEWS FHD**,http://gobr.ml:8080/Eduardo/1234/720
+Globonews.br,GLOBO NEWS FHD H265,http://gobr.ml:8080/Eduardo/1234/36805
+Recordnews.br,RECORD NEWS,http://gobr.ml:8080/Eduardo/1234/141
+Recordnews.br,RECORD NEWS HD,http://gobr.ml:8080/Eduardo/1234/179
+Recordnews.br,RECORD NEWS FHD,http://gobr.ml:8080/Eduardo/1234/63704
+Sic.br,SIC INTERNACIONAL,http://gobr.ml:8080/Eduardo/1234/9651
 
-#EXTINF:0 tvg-id="Arte1.br" group-title="Entretenimento e Musica",Arte 1
-http://lb.kstream.org/aovivo/SD_ARTE1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Arte 1 HD
-http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Arte 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Bis.br" group-title="Entretenimento e Musica",BIS
-http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Bishd.br" group-title="Entretenimento e Musica",BIS HD
-http://lb.kstream.org/aovivo/HD_BIS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",BIS HD [Alter]
-http://lb.kstream.org/aovivo/HD_BIS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="mtv-rus" group-title="Entretenimento e Musica",MTV
-http://lb.kstream.org/aovivo/SD_MTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entretenimento e Musica",MTV HD
-http://lb.kstream.org/aovivo/HD_MTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",MTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_MTV_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Multishow.br" group-title="Entretenimento e Musica",Multishow
-http://lb.kstream.org/aovivo/SD_MULTISHOW/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Multishow.br" group-title="Entretenimento e Musica",Multishow HD
-http://lb.kstream.org/aovivo/HD_MULTISHOW/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Multishow HD [Alter]
-http://lb.kstream.org/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Music Box Brazil
-http://lb.kstream.org/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Music Box Brazil HD
-http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="PlayTV.lt" group-title="Entretenimento e Musica",Play TV
-http://lb.kstream.org/aovivo/SD_PLAY_TV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Play TV HD
-http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",Play TV [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="vh1-europe" group-title="Entretenimento e Musica",VH1
-http://lb.kstream.org/aovivo/SD_VH1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="Entretenimento e Musica",VH1 HD
-http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento e Musica",VH1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="VH1Megahits.ar" group-title="Entretenimento e Musica",VH1 Megahits
-http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,SÉRIES
+Ae.br,A&E*,http://gobr.ml:8080/Eduardo/1234/269
+Ae.br,A&E HD,http://gobr.ml:8080/Eduardo/1234/13982
+Ae.br,A&E FHD,http://gobr.ml:8080/Eduardo/1234/63413
+Ae.br,A&E FHD H265,http://gobr.ml:8080/Eduardo/1234/37019
+Axn.br,AXN*,http://gobr.ml:8080/Eduardo/1234/271
+AXN.it,AXN HD,http://gobr.ml:8080/Eduardo/1234/270
+Axn.br,AXN FHD,http://gobr.ml:8080/Eduardo/1234/851
+Axn.br,AXN  FHD H265,http://gobr.ml:8080/Eduardo/1234/36776
+Fx.br,FX*,http://gobr.ml:8080/Eduardo/1234/226
+Fx.br,FX HD,http://gobr.ml:8080/Eduardo/1234/224
+Fx.br,FX FHD,http://gobr.ml:8080/Eduardo/1234/13958
+Fx.br,FX FHD H265,http://gobr.ml:8080/Eduardo/1234/36804
+Foxpremium1.br,FOX PREMIUM 1,http://gobr.ml:8080/Eduardo/1234/63674
+Foxpremium1.br,FOX PREMIUM 1 HD*,http://gobr.ml:8080/Eduardo/1234/225
+Foxpremium1.br,FOX PREMIUM 1 FHD,http://gobr.ml:8080/Eduardo/1234/63675
+Foxpremium2.br,FOX PREMIUM 2,http://gobr.ml:8080/Eduardo/1234/63676
+Foxpremium2.br,FOX PREMIUM 2 HD,http://gobr.ml:8080/Eduardo/1234/221
+Foxpremium1.br,FOX PREMIUM 2 FHD,http://gobr.ml:8080/Eduardo/1234/63677
+Investigacaodiscoveryid.br,ID - INVESTIGACAO DISCOVERY,http://gobr.ml:8080/Eduardo/1234/177
+Investigacaodiscoveryid.br,ID - INVESTIGACAO DISCOVERY HD,http://gobr.ml:8080/Eduardo/1234/171
+Investigacaodiscoveryid.br,INVESTIGACAO DISCOVERY FHD,http://gobr.ml:8080/Eduardo/1234/63306
+24dok,TBS,http://gobr.ml:8080/Eduardo/1234/124
+Tbs.br,TBS HD,http://gobr.ml:8080/Eduardo/1234/125
+Tbs.br,TBS  FHD,http://gobr.ml:8080/Eduardo/1234/100
+TNTSerie.br,TNT SERIES,http://gobr.ml:8080/Eduardo/1234/101
+TNTSerie.br,TNT SERIES HD*,http://gobr.ml:8080/Eduardo/1234/9644
+TNTSerie.br,TNT SERIES FHD*,http://gobr.ml:8080/Eduardo/1234/13921
+TNTSerie.br,TNT SERIES FHD H265,http://gobr.ml:8080/Eduardo/1234/36855
 
-#EXTINF:0 tvg-id="baby-tv" group-title="Infantil",Baby TV
-http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="Infantil",Baby TV HD
-http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="boomerang" group-title="Infantil",Boomerang
-http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Infantil",Boomerang HD
-http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Boomerang HD [Alter]
-http://lb.kstream.org/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="cartoon" group-title="Infantil",Cartoon Network
-http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="cartoon" group-title="Infantil",Cartoon Network HD
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Cartoon Network HD [Alter]
-http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Infantil",Discovery Kids
-http://lb.kstream.org/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Infantil",Discovery Kids HD
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Discovery Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="disney" group-title="Infantil",Disney Channel
-http://lb.kstream.org/aovivo/SD_DISNEY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Disney.uk" group-title="Infantil",Disney Channel HD
-http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Disney Channel HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Infantil",Disney JR
-http://lb.kstream.org/aovivo/SD_DISNEY_JR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Infantil",Disney JR HD
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Disney JR HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="disney-xd-blt" group-title="Infantil",Disney XD
-http://lb.kstream.org/aovivo/SD_DISNEY_XD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Infantil",Disney XD HD
-http://lb.kstream.org/aovivo/HD_DISNEY_XD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Disney XD HD [Alter]
-http://lb.kstream.org/aovivo/HD_DISNEY_XD_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Gloob.br" group-title="Infantil",Gloob
-http://lb.kstream.org/aovivo/SD_GLOOB/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Gloobhd.br" group-title="Infantil",Gloob HD
-http://lb.kstream.org/aovivo/HD_GLOOB/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Gloob HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Gloobinho
-http://lb.kstream.org/aovivo/SD_GLOOBINHO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Gloobinho HD
-http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",NatGeo Kids
-http://lb.kstream.org/aovivo/SD_NATGEOKIDS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",NatGeo Kids HD
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",NatGeo Kids HD [Alter]
-http://lb.kstream.org/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="nick-jr" group-title="Infantil",Nick Jr.
-http://lb.kstream.org/aovivo/SD_NICK_JR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="NickJr.de" group-title="Infantil",Nick Jr. HD
-http://lb.kstream.org/aovivo/HD_NICK_JR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Nick Jr. HD [Alter]
-http://lb.kstream.org/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Infantil",Nickelodeon
-http://lb.kstream.org/aovivo/SD_NICKELODEON/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="nickelod-hd" group-title="Infantil",Nickelodeon HD
-http://lb.kstream.org/aovivo/HD_NICKELODEON/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",PlayKids
-http://lb.kstream.org/aovivo/SD_PLAYKIDS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",PlayKids HD
-http://lb.kstream.org/aovivo/HD_PLAYKIDS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Ra Tim Bum
-http://lb.kstream.org/aovivo/SD_TV_RATIMBUM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Ra Tim Bum HD
-http://lb.kstream.org/aovivo/HD_TV_RATIMBUM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantil",Tooncast
-http://lb.kstream.org/aovivo/SD_TOONCAST/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tooncast.ar" group-title="Infantil",Tooncast HD
-http://lb.kstream.org/aovivo/HD_TOONCAST/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Tooncast HD [Alter]
-http://lb.kstream.org/aovivo/HD_TOONCAST_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Infantil",ZooMoo HD
-http://lb.kstream.org/aovivo/HD_ZOOMOO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,FILMES
+Amc.br,AMC,http://gobr.ml:8080/Eduardo/1234/7
+Amc.br,AMC HD,http://gobr.ml:8080/Eduardo/1234/6
+Amc.br,AMC FHD*,http://gobr.ml:8080/Eduardo/1234/13983
+Amc.br,AMC  FHD H265,http://gobr.ml:8080/Eduardo/1234/36774
+FilmArts.br,FILM & ARTS,http://gobr.ml:8080/Eduardo/1234/40240
+FilmArts.br,FILM & ARTS FHD,http://gobr.ml:8080/Eduardo/1234/40239
+Fox.br,FOX,http://gobr.ml:8080/Eduardo/1234/145
+Fox.br,FOX HD,http://gobr.ml:8080/Eduardo/1234/223
+Fox.br,FOX FHD,http://gobr.ml:8080/Eduardo/1234/746
+Fox.br,FOX FHD H265,http://gobr.ml:8080/Eduardo/1234/36801
+Megapix.br,MEGAPIX,http://gobr.ml:8080/Eduardo/1234/188
+Megapix.br,MEGAPIX HD,http://gobr.ml:8080/Eduardo/1234/173
+Megapix.br,MEGAPIX FHD,http://gobr.ml:8080/Eduardo/1234/13961
+Megapix.br,MEGAPIX  FHD H265,http://gobr.ml:8080/Eduardo/1234/36821
+Paramounthd.br,PARAMOUNT,http://gobr.ml:8080/Eduardo/1234/155
+Paramounthd.br,PARAMOUNT HD,http://gobr.ml:8080/Eduardo/1234/147
+Paramounthd.br,PARAMOUNT FHD**,http://gobr.ml:8080/Eduardo/1234/13942
+Paramounthd.br,PARAMOUNT FHD H265,http://gobr.ml:8080/Eduardo/1234/36829
+Sony.br,SONY,http://gobr.ml:8080/Eduardo/1234/144
+Sony.br,SONY HD,http://gobr.ml:8080/Eduardo/1234/127
+Sony.br,SONY FHD,http://gobr.ml:8080/Eduardo/1234/111
+Sony.br,SONY  FHD H265,http://gobr.ml:8080/Eduardo/1234/36841
+Space.br,SPACE*,http://gobr.ml:8080/Eduardo/1234/9650
+Space.br,SPACE HD,http://gobr.ml:8080/Eduardo/1234/110
+Space.br,SPACE FHD*,http://gobr.ml:8080/Eduardo/1234/13932
+Space.br,SPACE FHD H265,http://gobr.ml:8080/Eduardo/1234/36840
+Studiouniversal.br,STUDIO UNIVERSAL,http://gobr.ml:8080/Eduardo/1234/122
+Studiouniversal.br,STUDIO UNIVERSAL HD,http://gobr.ml:8080/Eduardo/1234/118
+Studiouniversal.br,STUDIO UNIVERSAL FHD,http://gobr.ml:8080/Eduardo/1234/63681
+Studiouniversal.br,STUDIO UNIVERSAL FHD H265,http://gobr.ml:8080/Eduardo/1234/36845
+Tcm.br,TCM,http://gobr.ml:8080/Eduardo/1234/115
+Tcm.br,TCM HD,http://gobr.ml:8080/Eduardo/1234/63683
+Tnt.br,TNT,http://gobr.ml:8080/Eduardo/1234/99
+Tnt.br,TNT HD,http://gobr.ml:8080/Eduardo/1234/105
+Tnt.br,TNT FHD,http://gobr.ml:8080/Eduardo/1234/13922
+Tnt.br,TNT FHD H265,http://gobr.ml:8080/Eduardo/1234/36854
+Universalchannel.br,UNIVERSAL CHANNEL,http://gobr.ml:8080/Eduardo/1234/80
+Universalchannel.br,UNIVERSAL CHANNEL HD,http://gobr.ml:8080/Eduardo/1234/81
+Universalchannel.br,UNIVERSAL CHANNEL FHD*,http://gobr.ml:8080/Eduardo/1234/13920
+Universalchannel.br,UNIVERSAL CHANNEL  FHD H265,http://gobr.ml:8080/Eduardo/1234/36856
+Warnerchannel.br,WARNER CHANNEL,http://gobr.ml:8080/Eduardo/1234/74
+Warnerchannel.br,WARNER CHANNEL HD,http://gobr.ml:8080/Eduardo/1234/76
+Warnerchannel.br,WARNER CHANNEL FHD,http://gobr.ml:8080/Eduardo/1234/63412
+Warnerchannel.br,WARNER CHANNEL FHD H265,http://gobr.ml:8080/Eduardo/1234/36858
 
-#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta",Band
-http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Bahia
-http://lb.kstream.org/aovivo/SD_BAND_BA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Campinas
-http://lb.kstream.org/aovivo/SD_BAND_CAMPINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Campinas HD
-http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Bandhd.br" group-title="TV Aberta",Band FHD
-http://lb.kstream.org/aovivo/FHD_BAND/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Bandhd.br" group-title="TV Aberta",Band HD
-http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Natal HD
-http://lb.kstream.org/aovivo/HD_BAND_NATAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Nordeste HD
-http://lb.kstream.org/aovivo/HD_BAND_NORDESTE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band Parana HD
-http://lb.kstream.org/aovivo/HD_BAND_PA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band RJ
-http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band RJ FHD
-http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band RJ HD
-http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band RS HD
-http://lb.kstream.org/aovivo/HD_BAND_RS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Bandsp.br" group-title="TV Aberta",Band SP
-http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Culturasp.br" group-title="TV Aberta",Cultura
-http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Cultura HD
-http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="TV Aberta",Globo Brasilia
-http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Brasilia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo EPTV Campinas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo EPTV Campinas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo EPTV Central
-http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo EPTV Ribeirao
-http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo EPTV Ribeirao HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo EPTV Sul de Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Inter TV Cabugi
-http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Inter TV Cabugi HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Inter TV Grande Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_GRANDE_MINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Inter TV Grande Minas HD
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Inter TV Serra Mar
-http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globominas.br" group-title="TV Aberta",Globo Minas
-http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Minas FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Minas HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MINAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo NSC TV Florianopolis
-http://lb.kstream.org/aovivo/SD_GLOBO_SC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo NSC TV Florianopolis HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globonordeste.br" group-title="TV Aberta",Globo Nordeste
-http://lb.kstream.org/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Nordeste FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Nordeste HD
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Nordeste HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_NORDESTE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo RBS POA
-http://lb.kstream.org/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo RBS POA FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo RBS POA HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo RPC Curitiba
-http://lb.kstream.org/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo RPC Curitiba HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo RPC Paranaense FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Rede Amazonica Acre HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONICA_ACRE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Rede Amazonica Manaus HD
-http://lb.kstream.org/aovivo/HD_GLOBO_AMAZONAS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Rede Amazonica Rondonia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RONDONIA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Rede Amazonica Roraima HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RORAIMA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globorj.br" group-title="TV Aberta",Globo Rio
-http://lb.kstream.org/aovivo/SD_GLOBO_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Rio FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Rio HD
-http://lb.kstream.org/aovivo/HD_GLOBO_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP
-http://lb.kstream.org/aovivo/SD_GLOBO_SP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo SP HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBO_SP_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Anhanguera Goiania
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Asa Branca
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Bahia
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Bahia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_BAHIA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Centro America
-http://lb.kstream.org/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Centro America FHD
-http://lb.kstream.org/aovivo/FHD_CENTRO_AMERICA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Centro America HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_CENTRO_AMERICA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Gazeta ES
-http://lb.kstream.org/aovivo/SD_GAZETA_ES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Gazeta ES HD
-http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Integracao
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_INTEGRACAO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Liberal Belem
-http://lb.kstream.org/aovivo/SD_GLOBO_LIBERAL_BELEM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Liberal Belem HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PARA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Mirante Cocais
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_MIRANTE_COCAIS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Mirante Cocais FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MARANHAO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Mirante Cocais HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MARANHAO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Morena FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_MORENA_MSS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Morena HD
-http://lb.kstream.org/aovivo/HD_GLOBO_MORENA_MSS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Santa Cruz
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Sergipe
-http://lb.kstream.org/aovivo/SD_GLOBO_SERGIPE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Sergipe FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_SERGIPE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Sergipe HD
-http://lb.kstream.org/aovivo/HD_GLOBO_SERGIPE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV TEM BAURU
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV TEM Itapetininga
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV TEM S. J. DO RIO PRETO
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SJ_RIO_PRETO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV TEM SOROCABA
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Tribuna Santos
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Vanguarda SJC
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Vanguarda Taubate
-http://lb.kstream.org/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Verdes Mares
-http://lb.kstream.org/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Verdes Mares FHD
-http://lb.kstream.org/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo TV Verdes Mares HD
-http://lb.kstream.org/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Tv Cabo Branco
-http://lb.kstream.org/aovivo/SD_GLOBO_CABO_BRANCO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Tv Cabo Branco HD
-http://lb.kstream.org/aovivo/HD_GLOBO_CABO_BRANCO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Globo Tv Clube PI HD
-http://lb.kstream.org/aovivo/HD_GLOBO_PIAUI/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Nbr.br" group-title="TV Aberta",NBR
-http://lb.kstream.org/aovivo/HD_NBR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record
-http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record AM
-http://lb.kstream.org/aovivo/SD_RECORD_MA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record AM HD
-http://lb.kstream.org/aovivo/HD_RECORD_MA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record BA
-http://lb.kstream.org/aovivo/SD_RECORD_BA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record BA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record DF
-http://lb.kstream.org/aovivo/SD_RECORD_DF/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record DF HD
-http://lb.kstream.org/aovivo/HD_RECORD_DF/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record ES FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_ES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record ES HD
-http://lb.kstream.org/aovivo/RECORD_ES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record FHD
-http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record GO
-http://lb.kstream.org/aovivo/SD_RECORD_GO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record GO FHD
-http://lb.kstream.org/aovivo/FHD_RECORD_GO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record GO HD
-http://lb.kstream.org/aovivo/HD_RECORD_GO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record HD
-http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record MG
-http://lb.kstream.org/aovivo/SD_RECORD_MG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record MG HD
-http://lb.kstream.org/aovivo/HD_RECORD_MG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record PA
-http://lb.kstream.org/aovivo/SD_RECORD_BE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record PA HD
-http://lb.kstream.org/aovivo/HD_RECORD_BE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record PR HD
-http://lb.kstream.org/aovivo/HD_RECORD_PR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record RJ
-http://lb.kstream.org/aovivo/SD_RECORD_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RJ HD
-http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RS
-http://lb.kstream.org/aovivo/SD_RECORD_RS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RS HD
-http://lb.kstream.org/aovivo/HD_RECORD_RS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Recordsp.br" group-title="TV Aberta",Record SP
-http://lb.kstream.org/aovivo/SD_RECORD_SP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record SP HD
-http://lb.kstream.org/aovivo/HD_RECORD_SP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Redebrasil.br" group-title="TV Aberta",Rede Brasil
-http://lb.kstream.org/aovivo/SD_REDE_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Redetv.br" group-title="TV Aberta",RedeTV!
-http://lb.kstream.org/aovivo/SD_REDETV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",RedeTV! FHD
-http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",RedeTV! HD
-http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",RedeTV! HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT
-http://lb.kstream.org/aovivo/SD_SBT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT ES HD
-http://lb.kstream.org/aovivo/HD_SBT_ES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT FHD
-http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT HD
-http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT HD [Alter]
-http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT MG
-http://lb.kstream.org/aovivo/SD_SBT_MG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT MG HD
-http://lb.kstream.org/aovivo/HD_SBT_MG/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT Rio HD
-http://lb.kstream.org/aovivo/HD_SBT_RJ/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT TV Cidade Verde
-http://lb.kstream.org/aovivo/SD_SBT_TV_CIDADE_VERDE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT TV Jornal Recife
-http://lb.kstream.org/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvbrasil.br" group-title="TV Aberta",TV Brasil
-http://lb.kstream.org/aovivo/SD_TV_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Diario FHD
-http://lb.kstream.org/aovivo/FHD_TV_DIARIO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Diario HD
-http://lb.kstream.org/aovivo/HD_TV_DIARIO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta",TV Escola
-http://lb.kstream.org/aovivo/HD_TV_ESCOLA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvjustica.br" group-title="TV Aberta",TV Justica
-http://lb.kstream.org/aovivo/SD_TV_JUSTICA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvsenado.br" group-title="TV Aberta",TV Senado
-http://lb.kstream.org/aovivo/HD_TV_SENADO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,TELECINES
+Tcaction.br,TC ACTION,http://gobr.ml:8080/Eduardo/1234/89
+Tcaction.br,TC ACTION HD**,http://gobr.ml:8080/Eduardo/1234/126
+Tcaction.br,TC ACTION FHD*,http://gobr.ml:8080/Eduardo/1234/13927
+Tcaction.br,TC ACTION FHD H265,http://gobr.ml:8080/Eduardo/1234/36847
+Tccult.br,TC CULT,http://gobr.ml:8080/Eduardo/1234/96
+Tccult.br,TC CULT HD,http://gobr.ml:8080/Eduardo/1234/45
+Tccult.br,TC CULT FHD*,http://gobr.ml:8080/Eduardo/1234/13926
+Tccult.br,TC CULT FHD H265,http://gobr.ml:8080/Eduardo/1234/36848
+Tcfun.br,TC FUN,http://gobr.ml:8080/Eduardo/1234/97
+Tcfun.br,TC FUN HD,http://gobr.ml:8080/Eduardo/1234/128
+Tcfun.br,TC FUN FHD*,http://gobr.ml:8080/Eduardo/1234/13925
+Tcfun.br,TC FUN  FHD H265,http://gobr.ml:8080/Eduardo/1234/36849
+Tcpipoca.br,TC PIPOCA,http://gobr.ml:8080/Eduardo/1234/90
+Tcpipoca.br,TC PIPOCA HD,http://gobr.ml:8080/Eduardo/1234/129
+Tcpipoca.br,TC PIPOCA FHD*,http://gobr.ml:8080/Eduardo/1234/13924
+Tcpipoca.br,TC PIPOCA FHD H265,http://gobr.ml:8080/Eduardo/1234/36850
+Tcpremium.br,TC PREMIUM,http://gobr.ml:8080/Eduardo/1234/94
+Tcpremium.br,TC PREMIUM HD,http://gobr.ml:8080/Eduardo/1234/131
+Tcpremium.br,TC PREMIUM FHD*,http://gobr.ml:8080/Eduardo/1234/13923
+Tcpremium.br,TC PREMIUM FHD H265,http://gobr.ml:8080/Eduardo/1234/36851
+Tctouch.br,TC TOUCH,http://gobr.ml:8080/Eduardo/1234/95
+Tctouch.br,TC TOUCH HD,http://gobr.ml:8080/Eduardo/1234/134
+Tctouch.br,TC TOUCH FHD*,http://gobr.ml:8080/Eduardo/1234/62780
+Tctouch.br,TC TOUCH FHD H265,http://gobr.ml:8080/Eduardo/1234/36852
 
-#EXTINF:0 tvg-id="Bandnews.br" group-title="Notícia",Band News
-http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",Band News HD
-http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",Band News HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",CNN Brasil
-http://lb.kstream.org/aovivo/SD_CNN_BRASIL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",CNN Brasil HD
-http://lb.kstream.org/aovivo/HD_CNN_BR/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globonews.br" group-title="Notícia",GloboNews
-http://lb.kstream.org/aovivo/SD_GLOBO_NEWS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Globonewshd.br" group-title="Notícia",GloboNews HD
-http://lb.kstream.org/aovivo/HD_GLOBONEWS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",GloboNews HD [Alter]
-http://lb.kstream.org/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="Notícia",Record News
-http://lb.kstream.org/aovivo/SD_RECORD_NEWS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",Record News HD
-http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia",Record News HD [Alter]
-http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,REDE HBO
+Cinemax.br,CINEMAX*,http://gobr.ml:8080/Eduardo/1234/257
+Cinemax.br,CINEMAX  HD,http://gobr.ml:8080/Eduardo/1234/63
+Cinemax.br,CINEMAX FHD,http://gobr.ml:8080/Eduardo/1234/13977
+Cinemax.br,CINEMAX FHD H265,http://gobr.ml:8080/Eduardo/1234/36783
+Hbo.br,HBO*,http://gobr.ml:8080/Eduardo/1234/202
+HBO.hu,HBO HD,http://gobr.ml:8080/Eduardo/1234/194
+Hbo.br,HBO FHD*,http://gobr.ml:8080/Eduardo/1234/32844
+Hbo.br,HBO  FHD H265,http://gobr.ml:8080/Eduardo/1234/36811
+Hbo2.br,HBO 2,http://gobr.ml:8080/Eduardo/1234/169
+Hbo2.br,HBO 2 HD*,http://gobr.ml:8080/Eduardo/1234/204
+Hbo2.br,HBO 2 FHD H265,http://gobr.ml:8080/Eduardo/1234/36809
+Hbofamily.br,HBO FAMILY,http://gobr.ml:8080/Eduardo/1234/190
+Hbofamily.br,HBO FAMILY HD,http://gobr.ml:8080/Eduardo/1234/191
+Hbofamily.br,HBO FAMILY FHD*,http://gobr.ml:8080/Eduardo/1234/13954
+Hbofamily.br,HBO FAMILY  FHD H265,http://gobr.ml:8080/Eduardo/1234/36810
+Hboplus.br,HBO PLUS,http://gobr.ml:8080/Eduardo/1234/197
+Hboplus.br,HBO PLUS HD,http://gobr.ml:8080/Eduardo/1234/196
+Hboplus.br,HBO PLUS FHD*,http://gobr.ml:8080/Eduardo/1234/13952
+Hboplus.br,HBO PLUS FHD H265,http://gobr.ml:8080/Eduardo/1234/36812
+Hbosignature.br,HBO SIGNATURE,http://gobr.ml:8080/Eduardo/1234/195
+Hbosignature.br,HBO SIGNATURE HD,http://gobr.ml:8080/Eduardo/1234/192
+Hbosignature.br,HBO SIGNATURE FHD*,http://gobr.ml:8080/Eduardo/1234/684
+Hbosignature.br,HBO SIGNATURE  FHD H265,http://gobr.ml:8080/Eduardo/1234/36813
+Max.br,HBO MUNDI,http://gobr.ml:8080/Eduardo/1234/77
+Max.br,HBO MUNDI HD,http://gobr.ml:8080/Eduardo/1234/182
+Max.br,HBO MUNDI FHD,http://gobr.ml:8080/Eduardo/1234/13948
+Max.br,HBO MUNDI FHD H265,http://gobr.ml:8080/Eduardo/1234/36818
+Maxprime.br,HBO XTREME,http://gobr.ml:8080/Eduardo/1234/176
+Maxprime.br,HBO XTREME HD,http://gobr.ml:8080/Eduardo/1234/183
+Maxprime.br,HBO XTREME FHD,http://gobr.ml:8080/Eduardo/1234/178
+Maxprime.br,HBO XTREME FHD H265,http://gobr.ml:8080/Eduardo/1234/36819
+Maxup.br,HBO POP,http://gobr.ml:8080/Eduardo/1234/181
+Maxup.br,HBO POP HD,http://gobr.ml:8080/Eduardo/1234/184
+Maxup.br,HBO POP FHD H265,http://gobr.ml:8080/Eduardo/1234/36820
 
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Esporte",Band Sports
-http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Esporte",Band Sports HD
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Band Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Combate.br" group-title="Esporte",Combate
-http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Combate.br" group-title="Esporte",Combate HD
-http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Combate HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DAZN209.it" group-title="Esporte",DAZN 1 HD
-http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="DAZN212.it" group-title="Esporte",DAZN 2 HD
-http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Esporte",ESPN
-http://lb.kstream.org/aovivo/SD_ESPN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Esporte",ESPN 2
-http://lb.kstream.org/aovivo/SD_EEEE_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Esporte",ESPN 2 HD
-http://lb.kstream.org/aovivo/HD_EEEE_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",ESPN 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_EEEE_2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esporte",ESPN Brasil
-http://lb.kstream.org/aovivo/SD_HDKASNBSBS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="Esporte",ESPN Brasil HD
-http://lb.kstream.org/aovivo/HD_HDUASBDOM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",ESPN Brasil HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Espnextra.br" group-title="Esporte",ESPN Extra
-http://lb.kstream.org/aovivo/SD_ESPN_EXTRA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Espnextra.br" group-title="Esporte",ESPN Extra HD
-http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Esporte",ESPN HD
-http://lb.kstream.org/aovivo/HD_ESPN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",ESPN HD [Alter]
-http://lb.kstream.org/aovivo/HD_ESPN_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Esporte",Fox Sports
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Esporte",Fox Sports 2
-http://lb.kstream.org/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Esporte",Fox Sports 2 HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Fox Sports 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Esporte",Fox Sports HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Fox Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Off.br" group-title="Esporte",Off
-http://lb.kstream.org/aovivo/SD_OFF/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Off.br" group-title="Esporte",Off HD
-http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Off HD [Alter]
-http://lb.kstream.org/aovivo/HD_OFF_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere2.br" group-title="Esporte",Premiere 2
-http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 2 HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere3.br" group-title="Esporte",Premiere 3
-http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 3 HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Esporte",Premiere 4
-http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Esporte",Premiere 4 HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere5.br" group-title="Esporte",Premiere 5
-http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 5 HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 5 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere6.br" group-title="Esporte",Premiere 6
-http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiere6.br" group-title="Esporte",Premiere 6 HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 6 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere 7 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Esporte",Premiere Clubes
-http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Esporte",Premiere Clubes HD
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",Premiere Clubes HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sportv.br" group-title="Esporte",SporTV
-http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Esporte",SporTV 2
-http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Esporte",SporTV 2 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",SporTV 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Esporte",SporTV 3
-http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Esporte",SporTV 3 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",SporTV 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sportv.br" group-title="Esporte",SporTV HD
-http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte",SporTV HD [Alter]
-http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,CINE SKY
+ext,CINE SKY 01,http://gobr.ml:8080/Eduardo/1234/69175
+ext,CINE SKY 02,http://gobr.ml:8080/Eduardo/1234/69176
+ext,CINE SKY 03,http://gobr.ml:8080/Eduardo/1234/69177
+ext,CINE SKY 04,http://gobr.ml:8080/Eduardo/1234/69178
+ext,CINE SKY 05,http://gobr.ml:8080/Eduardo/1234/69179
+ext,CINE SKY 06,http://gobr.ml:8080/Eduardo/1234/69180
+ext,CINE SKY 07,http://gobr.ml:8080/Eduardo/1234/69181
+ext,CINE SKY 08,http://gobr.ml:8080/Eduardo/1234/69182
+ext,CINE SKY 09,http://gobr.ml:8080/Eduardo/1234/69183
+ext,CINE SKY 10,http://gobr.ml:8080/Eduardo/1234/69184
 
-#EXTINF:0 tvg-id="Boavontadetv.br" group-title="Religioso",Boa Vontade TV
-http://lb.kstream.org/aovivo/HD_BOA_VONTADE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="CancaoNova.br" group-title="Religioso",Cancao Nova
-http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Cancaonova.br" group-title="Religioso",Cancao Nova HD
-http://lb.kstream.org/aovivo/HD_CANCAO_NOVA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Novo Tempo
-http://lb.kstream.org/aovivo/SD_NOVO_TEMPO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Novo Tempo HD
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Novo Tempo HD [Alter]
-http://lb.kstream.org/aovivo/HD_NOVO_TEMPO_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Rit.br" group-title="Religioso",RIT
-http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Gospel.br" group-title="Religioso",Rede Gospel
-http://lb.kstream.org/aovivo/HD_REDE_GOSPEL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Gospel FHD
-http://lb.kstream.org/aovivo/FHD_REDE_GOSPEL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="Religioso",Rede Super
-http://lb.kstream.org/aovivo/SD_REDE_SUPER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Super FHD
-http://lb.kstream.org/aovivo/FHD_REDE_SUPER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Redevida.br" group-title="Religioso",Rede Vida
-http://lb.kstream.org/aovivo/SD_REDE_VIDA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Vida HD
-http://lb.kstream.org/aovivo/HD_REDE_VIDA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Vida HD [Alter]
-http://lb.kstream.org/aovivo/HD_REDE_VIDA_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Religioso",TV Aparecida
-http://lb.kstream.org/aovivo/SD_TV_APARECIDA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",TV Aparecida HD
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",TV Aparecida HD [Alter]
-http://lb.kstream.org/aovivo/HD_TV_APARECIDA_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",TV Guarulhos (ESPIRITA)
-http://lb.kstream.org/aovivo/HD_TV_GUARULHOS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Religioso",TV Seculo 21
-http://lb.kstream.org/aovivo/HD_SECULO_21/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,ESPORTES
+Bandsports.br,BAND SPORTS*,http://gobr.ml:8080/Eduardo/1234/260
+Bandsports.br,BAND SPORTS HD,http://gobr.ml:8080/Eduardo/1234/262
+Bandsports.br,BAND SPORTS FHD,http://gobr.ml:8080/Eduardo/1234/13980
+ext,BAND SPORTS FHD H265,http://gobr.ml:8080/Eduardo/1234/36779
+Combate.br,COMBATE**,http://gobr.ml:8080/Eduardo/1234/255
+Combate.br,COMBATE HD**,http://gobr.ml:8080/Eduardo/1234/254
+Combate.br,COMBATE FHD,http://gobr.ml:8080/Eduardo/1234/13976
+ext,COMBATE  FHD H265,http://gobr.ml:8080/Eduardo/1234/36784
+ESPNInternational.br,ESPN*,http://gobr.ml:8080/Eduardo/1234/236
+ESPNInternational.br,ESPN HD,http://gobr.ml:8080/Eduardo/1234/237
+ESPNInternational.br,ESPN FHD,http://gobr.ml:8080/Eduardo/1234/13965
+ESPNInternational.br,ESPN  FHD H265,http://gobr.ml:8080/Eduardo/1234/36795
+ESPN2.mx,ESPN 2,http://gobr.ml:8080/Eduardo/1234/72645
+ESPN2.us,ESPN 2 HD,http://gobr.ml:8080/Eduardo/1234/72646
+ESPNInternational.br,ESPN 2 FHD,http://gobr.ml:8080/Eduardo/1234/15072
+Espnextra.br,ESPN 2 FHD H265,http://gobr.ml:8080/Eduardo/1234/36796
+Espnbrasil.br,ESPN BRASIL*,http://gobr.ml:8080/Eduardo/1234/234
+Espnbrasil.br,ESPN BRASIL HD*,http://gobr.ml:8080/Eduardo/1234/241
+Espnbrasil.br,ESPN BRASIL FHD,http://gobr.ml:8080/Eduardo/1234/13964
+Espnbrasil.br,ESPN BRASIL FHD H265,http://gobr.ml:8080/Eduardo/1234/36797
+ESPNInternational.br,ESPN EXTRA,http://gobr.ml:8080/Eduardo/1234/72647
+Espnextra.br,ESPN EXTRA HD,http://gobr.ml:8080/Eduardo/1234/72648
+ESPN+.br,ESPN EXTRA FHD,http://gobr.ml:8080/Eduardo/1234/72649
+Espnextra.br,ESPN EXTRA FHD H265,http://gobr.ml:8080/Eduardo/1234/36794
+Espn.br,ESPN PLUS FULLHD,http://gobr.ml:8080/Eduardo/1234/13963
+Fishtv.br,FISH TV**,http://gobr.ml:8080/Eduardo/1234/229
+Fishtv.br,FISH TV HD*,http://gobr.ml:8080/Eduardo/1234/235
+Fishtv.br,FISH TV  FHD H265,http://gobr.ml:8080/Eduardo/1234/36799
+Foxsports.br,FOX SPORTS**,http://gobr.ml:8080/Eduardo/1234/219
+Foxsports.br,FOX SPORTS HD**,http://gobr.ml:8080/Eduardo/1234/220
+Foxsports.br,FOX SPORTS FHD,http://gobr.ml:8080/Eduardo/1234/731
+Foxsports.br,FOX SPORTS FHD,http://gobr.ml:8080/Eduardo/1234/13959
+Foxsports.br,FOX SPORTS FHD H265,http://gobr.ml:8080/Eduardo/1234/36802
+Foxsports2.br,FOX SPORTS 2*,http://gobr.ml:8080/Eduardo/1234/206
+Foxsports2.br,FOX SPORTS 2 HD,http://gobr.ml:8080/Eduardo/1234/227
+Foxsports2.br,FOX SPORTS 2 FHD,http://gobr.ml:8080/Eduardo/1234/13960
+Foxsports2.br,FOX SPORTS 2 FHD H265,http://gobr.ml:8080/Eduardo/1234/36803
+Off.br,OFF,http://gobr.ml:8080/Eduardo/1234/162
+Off.br,OFF HD,http://gobr.ml:8080/Eduardo/1234/146
+Off.br,OFF FULLHD FHD H265,http://gobr.ml:8080/Eduardo/1234/36828
+Sportv.br,SPORTV**,http://gobr.ml:8080/Eduardo/1234/119
+Sportv.br,SPORTV HD,http://gobr.ml:8080/Eduardo/1234/143
+Sportv.br,SPORTV FULLHD,http://gobr.ml:8080/Eduardo/1234/593
+Sportv.br,SPORTV FHD,http://gobr.ml:8080/Eduardo/1234/13931
+Sportv.br,SPORTV FHD H265,http://gobr.ml:8080/Eduardo/1234/36842
+Sportv2.br,SPORTV 2,http://gobr.ml:8080/Eduardo/1234/120
+Sportv2.br,SPORT TV 2 HD,http://gobr.ml:8080/Eduardo/1234/112
+Sportv2.br,SPORTV 2 FHD,http://gobr.ml:8080/Eduardo/1234/13930
+Sportv2.br,SPORTV 2  FHD H265,http://gobr.ml:8080/Eduardo/1234/36843
+Sportv3.br,SPORTV 3,http://gobr.ml:8080/Eduardo/1234/121
+Sportv3.br,SPORT TV 3 HD,http://gobr.ml:8080/Eduardo/1234/114
+Sportv3.br,SPORTV 3 FHD,http://gobr.ml:8080/Eduardo/1234/13929
+Sportv3.br,SPORTV 3 FHD H265,http://gobr.ml:8080/Eduardo/1234/36844
+Woohoo.br,WOOHOO,http://gobr.ml:8080/Eduardo/1234/73
+Woohoo.br,WOOHOO HD,http://gobr.ml:8080/Eduardo/1234/54
 
-#EXTINF:0 tvg-id="ext" group-title="Notícia e Internacional",CNN International FHD
-http://lb.kstream.org/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Notícia e Internacional",CNN International HD
-http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,PREMIERE
+Premierefchd.br,PREMIERE CLUBES**,http://gobr.ml:8080/Eduardo/1234/117
+Premierefchd.br,PREMIERE CLUBES HD*,http://gobr.ml:8080/Eduardo/1234/15076
+Premierefchd.br,PREMIERE CLUBES HD**,http://gobr.ml:8080/Eduardo/1234/130
+Premierefchd.br,PREMIERE CLUBES FHD,http://gobr.ml:8080/Eduardo/1234/13941
+Premierefchd.br,PREMIERE CLUBES  FHD H265,http://gobr.ml:8080/Eduardo/1234/36830
+Premiere2.br,PREMIERE  2,http://gobr.ml:8080/Eduardo/1234/154
+Premiere2.br,PREMIERE 2 HD**,http://gobr.ml:8080/Eduardo/1234/150
+ext,PREMIERE 2 HD*,http://gobr.ml:8080/Eduardo/1234/72657
+Premiere2.br,PREMIERE 2 FHD,http://gobr.ml:8080/Eduardo/1234/13940
+Premiere2.br,PREMIERE 2 FHD H265,http://gobr.ml:8080/Eduardo/1234/36831
+Premiere3.br,PREMIERE 3,http://gobr.ml:8080/Eduardo/1234/158
+Premiere3.br,PREMIERE 3 HD,http://gobr.ml:8080/Eduardo/1234/151
+ext,PREMIERE 3 HD*,http://gobr.ml:8080/Eduardo/1234/72658
+Premiere3.br,PREMIERE 3 FHD,http://gobr.ml:8080/Eduardo/1234/13939
+Premiere3.br,PREMIERE 3 FHD H265,http://gobr.ml:8080/Eduardo/1234/36832
+Premiere4.br,PREMIERE 4**,http://gobr.ml:8080/Eduardo/1234/149
+Premiere4.br,PREMIERE 4 HD,http://gobr.ml:8080/Eduardo/1234/152
+Premiere4.br,PREMIERE 4 HD*,http://gobr.ml:8080/Eduardo/1234/72659
+Premiere4.br,PREMIERE 4 FHD,http://gobr.ml:8080/Eduardo/1234/13938
+Premiere4.br,PREMIERE 4 FHD H265,http://gobr.ml:8080/Eduardo/1234/36833
+Premiere5.br,PREMIERE 5,http://gobr.ml:8080/Eduardo/1234/153
+ext,PREMIERE 5 HD,http://gobr.ml:8080/Eduardo/1234/72654
+ext,PREMIERE 5 HD*,http://gobr.ml:8080/Eduardo/1234/72660
+Premiere5.br,PREMIERE 5 FHD,http://gobr.ml:8080/Eduardo/1234/13937
+Premiere5.br,PREMIERE 5  FHD H265,http://gobr.ml:8080/Eduardo/1234/36834
+Premiere6.br,PREMIERE 6,http://gobr.ml:8080/Eduardo/1234/22
+Premiere6.br,PREMIERE 6 HD,http://gobr.ml:8080/Eduardo/1234/72655
+Premiere6.br,PREMIERE 6 HD*,http://gobr.ml:8080/Eduardo/1234/72661
+Premiere6.br,PREMIERE 6 FHD,http://gobr.ml:8080/Eduardo/1234/13936
+Premiere6.br,PREMIERE 6  FHD H265,http://gobr.ml:8080/Eduardo/1234/36835
+Premiere7.br,PREMIERE  7,http://gobr.ml:8080/Eduardo/1234/157
+Premiere7.br,PREMIERE 7 HD,http://gobr.ml:8080/Eduardo/1234/72656
+Premiere7.br,PREMIERE 7 HD*,http://gobr.ml:8080/Eduardo/1234/72662
+Premiere7.br,PREMIERE 7 FHD,http://gobr.ml:8080/Eduardo/1234/72663
+Premiere7.br,PREMIERE 7  FHD H265,http://gobr.ml:8080/Eduardo/1234/36836
+Premiere8.br,PREMIERE 8,http://gobr.ml:8080/Eduardo/1234/156
+Premiere9.br,PREMIERE 9,http://gobr.ml:8080/Eduardo/1234/107
 
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento",Chef TV HD
-http://lb.kstream.org/aovivo/HD_CHEFTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Entretenimento",Comedy Central
-http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Entretenimento",Comedy Central HD
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Entretenimento",Comedy Central HD [Alter]
-http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,ESPORTES ESPECIAIS-SO FUNCIONA NA HORA DO JOGO
+ext,PPV FUTEBOL 1,http://gobr.ml:8080/Eduardo/1234/63854
+ext,CONMEBOL TV HD (JOGO 1),http://gobr.ml:8080/Eduardo/1234/72672
+ext,CONMEBOL TV  FHD (JOGO 1),http://gobr.ml:8080/Eduardo/1234/72677
+ext,CONMEBOL TV HD (JOGO 2,http://gobr.ml:8080/Eduardo/1234/72671
+ext,CONMEBOL TV FHD (JOGO 2),http://gobr.ml:8080/Eduardo/1234/72678
+ext,CONMEBOL 1,http://gobr.ml:8080/Eduardo/1234/77993
+ext,CONMEBOL TV 1 FHD,http://gobr.ml:8080/Eduardo/1234/72673
+ext,CONMEBOL 2,http://gobr.ml:8080/Eduardo/1234/77994
+ext,CONMEBOL TV 2 FHD,http://gobr.ml:8080/Eduardo/1234/72674
+ext,CONMEBOL 3,http://gobr.ml:8080/Eduardo/1234/77995
+ext,CONMEBOL TV 3 FHD,http://gobr.ml:8080/Eduardo/1234/72675
+ext,CONMEBOL 4,http://gobr.ml:8080/Eduardo/1234/77996
+ext,CONMEBOL TV 4 FHD,http://gobr.ml:8080/Eduardo/1234/72676
+ext,FURACAO PLAY,http://gobr.ml:8080/Eduardo/1234/72615
+ext,LIGA FUTSAL 2020,http://gobr.ml:8080/Eduardo/1234/72616
+DAZN1BarHD.de,DAZN*,http://gobr.ml:8080/Eduardo/1234/61635
+ext,DAZN  FULLHD,http://gobr.ml:8080/Eduardo/1234/38089
+ext,DAZN 01 HD,http://gobr.ml:8080/Eduardo/1234/38088
+ext,DAZN 02 HD,http://gobr.ml:8080/Eduardo/1234/38087
+ext,DAZN 03 HD,http://gobr.ml:8080/Eduardo/1234/38086
+ext,DAZN 04 HD**,http://gobr.ml:8080/Eduardo/1234/61634
+ext,EI MAX JOGO 1,http://gobr.ml:8080/Eduardo/1234/29637
+ext,EI MAX JOGO 2,http://gobr.ml:8080/Eduardo/1234/29636
+ext,EI MAX JOGO3,http://gobr.ml:8080/Eduardo/1234/29635
+ext,EI MAX JOGO 4,http://gobr.ml:8080/Eduardo/1234/29634
+ext,EIPLUS,http://gobr.ml:8080/Eduardo/1234/71991
+ext,EIPLUS HD,http://gobr.ml:8080/Eduardo/1234/72002
+ext,EIPLUS 2,http://gobr.ml:8080/Eduardo/1234/71992
+ext,EIPLUS 2 HD,http://gobr.ml:8080/Eduardo/1234/71993
+ext,EIPLUS 3,http://gobr.ml:8080/Eduardo/1234/71994
+ext,EIPLUS 3 HD,http://gobr.ml:8080/Eduardo/1234/71995
+ext,EIPLUS 4,http://gobr.ml:8080/Eduardo/1234/71996
+ext,EIPLUS 4 HD,http://gobr.ml:8080/Eduardo/1234/71997
+ext,EIPLUS 5,http://gobr.ml:8080/Eduardo/1234/71998
+ext,EIPLUS 5 HD,http://gobr.ml:8080/Eduardo/1234/71999
+ext,EIPLUS 6,http://gobr.ml:8080/Eduardo/1234/72000
+ext,EIPLUS 6 HD,http://gobr.ml:8080/Eduardo/1234/72001
 
-#EXTINF:0 tvg-id="EsporteInterativo.br" group-title="Esporte e EI Plus",Esporte Interativo
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 02
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 04
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_4/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 04 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_4/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 05
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_5/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 05 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_5/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 06
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_6/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 06 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_6/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 07
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_7/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 07 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_7/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 08
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_8/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 08 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_8/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 09
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_9/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 09 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_9/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 10
-http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_10/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte Interativo 10 HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_10/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Esporteint.br" group-title="Esporte e EI Plus",Esporte Interativo HD
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Esporte e EI Plus",Esporte interativo 03
-http://lb.kstream.org/aovivo/SD_EI_PLUS_3/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,ESPORTES INTERNACIONAL
+ext,BEINSPORTS 1 HD,http://gobr.ml:8080/Eduardo/1234/74634
+ext,BEINSPORTS 1 FHD,http://gobr.ml:8080/Eduardo/1234/74635
+beINSport2.fr,BEINSPORTS 2 HD,http://gobr.ml:8080/Eduardo/1234/74636
+beINSport2.fr,BEINSPORTS 2 FHD,http://gobr.ml:8080/Eduardo/1234/74637
+bein3hd.jsc,BEINSPORTS 3 HD,http://gobr.ml:8080/Eduardo/1234/74638
+bein3hd.jsc,BEINSPORTS 3 FHD,http://gobr.ml:8080/Eduardo/1234/74639
+ext,BEINSPORT MAX 4 HD,http://gobr.ml:8080/Eduardo/1234/74640
+ext,BEINSPORT MAX 5 HD,http://gobr.ml:8080/Eduardo/1234/74641
+ext,BEINSPORT MAX 6 HD,http://gobr.ml:8080/Eduardo/1234/74642
+ext,BEINSPORT MAX 7 HD,http://gobr.ml:8080/Eduardo/1234/74643
+ext,BEINSPORT MAX 8 HD,http://gobr.ml:8080/Eduardo/1234/74644
+ext,BEINSPORT MAX  9 HD,http://gobr.ml:8080/Eduardo/1234/74645
+ext,BEINSPORT MAX 10 HD,http://gobr.ml:8080/Eduardo/1234/74646
+ext,BEINSPORT MAX10 FHD,http://gobr.ml:8080/Eduardo/1234/74647
+ext,BEINSPORT MAX9 FHD,http://gobr.ml:8080/Eduardo/1234/74648
+ext,BEINSPORT MAX8 FHD,http://gobr.ml:8080/Eduardo/1234/74649
+ext,BEINSPORT MAX7 FHD,http://gobr.ml:8080/Eduardo/1234/74650
+ext,BEINSPORT MAX6 FHD,http://gobr.ml:8080/Eduardo/1234/74651
+ext,BEINSPORT MAX5 FHD,http://gobr.ml:8080/Eduardo/1234/74652
+ext,BEINSPORT MAX4 FHD,http://gobr.ml:8080/Eduardo/1234/74653
+bein3hd.jsc,BEINSPORT 3 FHD,http://gobr.ml:8080/Eduardo/1234/74654
+bein2hd.jsc,BEIN SPORT 2 FHD,http://gobr.ml:8080/Eduardo/1234/74655
+bein1hd.jsc,BEINSPORT 1 FHD,http://gobr.ml:8080/Eduardo/1234/74656
+ext,EUROSPORT 1 HD IT,http://gobr.ml:8080/Eduardo/1234/74671
+esp2,EUROSPORT 2 HD IT,http://gobr.ml:8080/Eduardo/1234/74672
+ext,EUA: MLB NETWORK | HD,http://gobr.ml:8080/Eduardo/1234/19728
+ext,EUA: MLB NETWORK | HD*,http://gobr.ml:8080/Eduardo/1234/19727
+ext,EUA: MLB STRIKE ZONE | HD,http://gobr.ml:8080/Eduardo/1234/19726
+ext,NBA PASS: 1,http://gobr.ml:8080/Eduardo/1234/19738
+ext,NBA PASS: 2,http://gobr.ml:8080/Eduardo/1234/19737
+ext,NBA PASS: 3,http://gobr.ml:8080/Eduardo/1234/19736
+ext,NBA PASS: 4,http://gobr.ml:8080/Eduardo/1234/19735
+ext,NBA PASS: 5,http://gobr.ml:8080/Eduardo/1234/19734
+ext,NBA PASS: 6,http://gobr.ml:8080/Eduardo/1234/19733
+ext,NBA PASS: 7,http://gobr.ml:8080/Eduardo/1234/19732
+ext,NBA PASS: 8,http://gobr.ml:8080/Eduardo/1234/19731
+ext,NBA PASS: 9,http://gobr.ml:8080/Eduardo/1234/19730
+ext,NBA PASS: 10,http://gobr.ml:8080/Eduardo/1234/19729
+ext,NFL GamePass 10: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19724
+ext,NFL GamePass 11: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19723
+ext,NFL GamePass 12: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19722
+ext,NFL GamePass 13: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19721
+ext,NFL GamePass 14: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19720
+ext,NFL GamePass 15: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19719
+ext,NFL GamePass 16: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19718
+ext,NFL GamePass 1: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19725
+ext,NFL GamePass 2: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19717
+ext,NFL GamePass 3: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19716
+ext,NFL GamePass 4: (CANAL LIBERADO SOMENTE EM HORÃƒÂRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19715
+ext,NFL GamePass 5: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19714
+ext,NFL GamePass 6: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19713
+ext,NFL GamePass 7: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19712
+ext,NFL GamePass 8: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19711
+ext,NFL GamePass 9: (CANAL LIBERADO SOMENTE EM HORÁRIO DE JOGO),http://gobr.ml:8080/Eduardo/1234/19710
+SkySportF1.it,SKY SPORT F1 HD IT,http://gobr.ml:8080/Eduardo/1234/74657
+SkySportMotoGP.it,SKY SPORT MOTOGP HD IT,http://gobr.ml:8080/Eduardo/1234/74658
+SkySportUno.it,SKY SPORT 1 HD IT,http://gobr.ml:8080/Eduardo/1234/74659
+ext,SKY SPORT ARENA HD IT,http://gobr.ml:8080/Eduardo/1234/74660
+ext,SKY SPORT FOOTBALL HD IT,http://gobr.ml:8080/Eduardo/1234/74661
+ext,SKY SPORT NBA IT,http://gobr.ml:8080/Eduardo/1234/74662
+SKYSport24.it,SKY SPORT 24 HD IT,http://gobr.ml:8080/Eduardo/1234/74663
+ext,SKY SPORT SERIE A HD IT,http://gobr.ml:8080/Eduardo/1234/74664
+ext,SKY SPORT 251 HD IT,http://gobr.ml:8080/Eduardo/1234/74665
+ext,SKY SPORT 252 HD IT,http://gobr.ml:8080/Eduardo/1234/74666
+ext,SKY SPORT 253 HD IT,http://gobr.ml:8080/Eduardo/1234/74667
+ext,SKY SPORT 254 HD IT,http://gobr.ml:8080/Eduardo/1234/74668
+ext,SKY SPORT 255 HD IT,http://gobr.ml:8080/Eduardo/1234/74669
+ext,SUPER TENIS HD IT,http://gobr.ml:8080/Eduardo/1234/74670
+ext,US: WWE,http://gobr.ml:8080/Eduardo/1234/19709
+ext,US: WWE  | HD*,http://gobr.ml:8080/Eduardo/1234/19708
+ext,WWE: PPV (ABERTO APENAS EM EVENTOS),http://gobr.ml:8080/Eduardo/1234/19707
 
-#EXTINF:0 tvg-id="ext" group-title="YouTube e Esporte",FlaTV
-http://lb.kstream.org/aovivo/HD_FLATV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="YouTube e Esporte",Flu TV
-http://lb.kstream.org/aovivo/HD_FLUTV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="YouTube e Esporte",Vasco TV
-http://lb.kstream.org/aovivo/HD_VASCO_TV/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,RELIGIOSOS
+ext,CANAL PROMESSAS HD,http://gobr.ml:8080/Eduardo/1234/62723
+CancaoNova.br,CANCAO NOVA,http://gobr.ml:8080/Eduardo/1234/62720
+CancaoNova.br,CANCAO NOVA HD,http://gobr.ml:8080/Eduardo/1234/62722
+RedeSuperdeTelevisao.br,REDE SUPER,http://gobr.ml:8080/Eduardo/1234/36
+Tvnovotempo.br,TV NOVO TEMPO HD,http://gobr.ml:8080/Eduardo/1234/62721
+Tvnovotempo.br,TV NOVO TEMPO,http://gobr.ml:8080/Eduardo/1234/161
+ext,TV EVANGELIZAR,http://gobr.ml:8080/Eduardo/1234/23
+Tvaparecida.br,TV APARECIDA*,http://gobr.ml:8080/Eduardo/1234/265
+Tvaparecida.br,TV APARECIDA**,http://gobr.ml:8080/Eduardo/1234/9663
+ext,TV PAI ETERNO,http://gobr.ml:8080/Eduardo/1234/55
+Rit.br,RIT TV,http://gobr.ml:8080/Eduardo/1234/31724
+Redevida.br,REDE VIDA,http://gobr.ml:8080/Eduardo/1234/116
 
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Filme e HBO",HBO
-http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Filme e HBO",HBO 2
-http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HBO2.pl" group-title="Filme e HBO",HBO 2 HD
-http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Filme e HBO",HBO Family
-http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Filme e HBO",HBO Family HD
-http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO Family HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HBO.hu" group-title="Filme e HBO",HBO HD
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Max.br" group-title="Filme e HBO",HBO Mundi
-http://lb.kstream.org/aovivo/SD_HBO_MUNDI/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Maxhd.br" group-title="Filme e HBO",HBO Mundi HD
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO Mundi HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Maxup.br" group-title="Filme e HBO",HBO POP
-http://lb.kstream.org/aovivo/SD_HBO_POP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO POP HD
-http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO POP HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_POP_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Hboplus.br" group-title="Filme e HBO",HBO Plus
-http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Hboplushd.br" group-title="Filme e HBO",HBO Plus HD
-http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO Plus HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Filme e HBO",HBO Signature
-http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Filme e HBO",HBO Signature HD
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO Signature HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Filme e HBO",HBO Xtreme
-http://lb.kstream.org/aovivo/SD_HBO_XTREME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Filme e HBO",HBO Xtreme HD
-http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e HBO",HBO Xtreme HD [Alter]
-http://lb.kstream.org/aovivo/HD_HBO_XTREME_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,INFANTIL
+BabyTV.br,BABY TV*,http://gobr.ml:8080/Eduardo/1234/9727
+Boomerang.br,BOOMERANG*,http://gobr.ml:8080/Eduardo/1234/258
+Boomerang.br,BOOMERANG FHD,http://gobr.ml:8080/Eduardo/1234/667
+Boomerang.br,BOOMERANG FHD H265,http://gobr.ml:8080/Eduardo/1234/36781
+Cartoonnetwork.br,CARTOON NETWORK*,http://gobr.ml:8080/Eduardo/1234/815
+Cartoonnetwork.br,CARTOON NETWORK  HD,http://gobr.ml:8080/Eduardo/1234/64
+Cartoonnetwork.br,CARTOON NETWORK FHD,http://gobr.ml:8080/Eduardo/1234/15069
+Cartoonnetwork.br,CARTOON NETWORK FHD H265,http://gobr.ml:8080/Eduardo/1234/36782
+Discoverykids.br,DISCOVERY KIDS,http://gobr.ml:8080/Eduardo/1234/198
+Discoverykids.br,DISCOVERY KIDS HD,http://gobr.ml:8080/Eduardo/1234/58
+Discoverykids.br,DISCOVERY KIDS FHD**,http://gobr.ml:8080/Eduardo/1234/13973
+Discoverykids.br,DISCOVERY KIDS H265,http://gobr.ml:8080/Eduardo/1234/36788
+Disneychannel.br,DISNEY CHANNEL*,http://gobr.ml:8080/Eduardo/1234/233
+Disneychannel.br,DISNEY CHANNEL HD,http://gobr.ml:8080/Eduardo/1234/56
+Discovery.br,DISNEY CHANNEL FHD*,http://gobr.ml:8080/Eduardo/1234/13968
+Disneychannel.br,DISNEY CHANNEL FHD H265,http://gobr.ml:8080/Eduardo/1234/36792
+Disneyjrhd.br,DISNEY JR. FHD**,http://gobr.ml:8080/Eduardo/1234/13967
+Disneyjrhd.br,DISNEY JR  FHD H265,http://gobr.ml:8080/Eduardo/1234/36793
+Disneyjrhd.br,DISNEY JUNIOR*,http://gobr.ml:8080/Eduardo/1234/242
+Disneyxd.br,DISNEY XD*,http://gobr.ml:8080/Eduardo/1234/230
+Gloob.br,GLOOB,http://gobr.ml:8080/Eduardo/1234/201
+Gloob.br,GLOOB HD,http://gobr.ml:8080/Eduardo/1234/84
+Gloob.br,GLOOB  FHD H265,http://gobr.ml:8080/Eduardo/1234/36807
+ext,GLOOBINHO*,http://gobr.ml:8080/Eduardo/1234/13984
+ext,GLOOBINHO HD*,http://gobr.ml:8080/Eduardo/1234/19463
+ext,NATGEO KIDS,http://gobr.ml:8080/Eduardo/1234/27
+ext,NATGEO KIDS HD,http://gobr.ml:8080/Eduardo/1234/28
+ext,NATGEO KIDS FHD H265,http://gobr.ml:8080/Eduardo/1234/36825
+NickJr.br,NICK JR,http://gobr.ml:8080/Eduardo/1234/166
+NickJr.br,NICK JR HD,http://gobr.ml:8080/Eduardo/1234/24
+Nickelodeon.br,NICKELODEON,http://gobr.ml:8080/Eduardo/1234/167
+Nickelodeon.br,NICK HD,http://gobr.ml:8080/Eduardo/1234/163
+Nickelodeon.br,NICK FHD**,http://gobr.ml:8080/Eduardo/1234/13943
+Nickelodeon.br,NICKELODEON  FHD H265,http://gobr.ml:8080/Eduardo/1234/36827
+Kids.br,PLAYKIDS,http://gobr.ml:8080/Eduardo/1234/13175
+Tvratimbum.br,TV RA TIM BUM,http://gobr.ml:8080/Eduardo/1234/88
+Tvratimbum.br,TV RA TIM BUM HD,http://gobr.ml:8080/Eduardo/1234/70691
+Tooncast.br,TOONCAST HD,http://gobr.ml:8080/Eduardo/1234/70692
+Tooncast.br,TOONCAST,http://gobr.ml:8080/Eduardo/1234/93
+Zoomoo.br,ZOOMOO,http://gobr.ml:8080/Eduardo/1234/40056
 
-#EXTINF:0 tvg-id="NHK.mx" group-title="Internacional",NHK
-http://lb.kstream.org/aovivo/SD_NHK/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,VARIEDADES
+Arte1.br,ARTE 1,http://gobr.ml:8080/Eduardo/1234/266
+Arte1.br,ARTE 1 HD,http://gobr.ml:8080/Eduardo/1234/63414
+Arte1.br,ARTE 1 FHD,http://gobr.ml:8080/Eduardo/1234/63415
+Bishd.br,BIS*,http://gobr.ml:8080/Eduardo/1234/264
+Bishd.br,BIS HD*,http://gobr.ml:8080/Eduardo/1234/245
+Bishd.br,BIS FHD*,http://gobr.ml:8080/Eduardo/1234/13979
+Bishd.br,BIS  FHD H265,http://gobr.ml:8080/Eduardo/1234/36780
+Comedycentral.br,COMEDY CENTRAL*,http://gobr.ml:8080/Eduardo/1234/261
+Comedycentral.br,COMEDY CENTRAL HD,http://gobr.ml:8080/Eduardo/1234/60
+Comedycentral.br,COMEDY CENTRAL FHD,http://gobr.ml:8080/Eduardo/1234/61365
+Comedycentral.br,COMEDY CENTRAL FHD H265,http://gobr.ml:8080/Eduardo/1234/36785
+ext,CURTA*,http://gobr.ml:8080/Eduardo/1234/205
+Homehealth.br,DISCOVERY H&H*,http://gobr.ml:8080/Eduardo/1234/249
+Homehealth.br,DISCOVERY H&H HD,http://gobr.ml:8080/Eduardo/1234/248
+Homehealth.br,DISCOVERY H&H  FHD H265,http://gobr.ml:8080/Eduardo/1234/36800
+E.br,E!*,http://gobr.ml:8080/Eduardo/1234/240
+E.br,E! HD,http://gobr.ml:8080/Eduardo/1234/238
+E.br,E! FHD H265,http://gobr.ml:8080/Eduardo/1234/36798
+Foodnetworkhd.br,FOOD NETWORK*,http://gobr.ml:8080/Eduardo/1234/228
+Foodnetworkhd.br,FOOD NETWORK FHD*,http://gobr.ml:8080/Eduardo/1234/13962
+Foodnetworkhd.br,FOOD NETWORK  FHD H265,http://gobr.ml:8080/Eduardo/1234/36806
+Foxlife.br,FOX LIFE*,http://gobr.ml:8080/Eduardo/1234/218
++globosat.br,GLOBOSAT,http://gobr.ml:8080/Eduardo/1234/87
++globosat.br,GLOBOSAT HD,http://gobr.ml:8080/Eduardo/1234/1
++globosat.br,GLOBOSAT FHD H265,http://gobr.ml:8080/Eduardo/1234/36817
+Gnt.br,GNT*,http://gobr.ml:8080/Eduardo/1234/207
+Gnt.br,GNT HD*,http://gobr.ml:8080/Eduardo/1234/208
+Gnt.br,GNT FHD H265,http://gobr.ml:8080/Eduardo/1234/36808
+Idealtv.br,IDEAL TV,http://gobr.ml:8080/Eduardo/1234/210
+Lifetime.br,LIFETIME,http://gobr.ml:8080/Eduardo/1234/172
+Lifetime.br,LIFETIME HD,http://gobr.ml:8080/Eduardo/1234/180
+Lifetime.br,LIFETIME FHD**,http://gobr.ml:8080/Eduardo/1234/13949
+Lifetime.br,LIFETIME FHD H265,http://gobr.ml:8080/Eduardo/1234/36816
+mtv-rus,MTV,http://gobr.ml:8080/Eduardo/1234/189
+Mtv.br,MTV HD,http://gobr.ml:8080/Eduardo/1234/98
+Mtv.br,MTV FHD**,http://gobr.ml:8080/Eduardo/1234/13947
+Mtv.br,MTV FHD H265,http://gobr.ml:8080/Eduardo/1234/36822
+mtvlive-hd,MTV LIVE FHD,http://gobr.ml:8080/Eduardo/1234/63424
+Multishow.br,MULTISHOW,http://gobr.ml:8080/Eduardo/1234/187
+Multishow.br,MULTISHOW HD,http://gobr.ml:8080/Eduardo/1234/186
+Multishow.br,MULTISHOW FHD*,http://gobr.ml:8080/Eduardo/1234/670
+Multishow.br,MULTISHOW FHD*,http://gobr.ml:8080/Eduardo/1234/13946
+Multishow.br,MULTISHOW  FHD H265,http://gobr.ml:8080/Eduardo/1234/36823
+Playtv.br,PLAY TV,http://gobr.ml:8080/Eduardo/1234/148
+Polishop.br,POLISHOP TV,http://gobr.ml:8080/Eduardo/1234/63425
+ext,PRIME BOX BRAZIL,http://gobr.ml:8080/Eduardo/1234/113
+Syfy.br,SYFY,http://gobr.ml:8080/Eduardo/1234/123
+Syfy.br,SYFY HD,http://gobr.ml:8080/Eduardo/1234/142
+Syfy.br,SYFY FHD*,http://gobr.ml:8080/Eduardo/1234/13928
+Syfy.br,SYFY  FHD H265,http://gobr.ml:8080/Eduardo/1234/36846
+tlc-russia,TLC,http://gobr.ml:8080/Eduardo/1234/135
+Tlc.br,TLC HD,http://gobr.ml:8080/Eduardo/1234/60062
+Tlc.br,TLC FHD,http://gobr.ml:8080/Eduardo/1234/60061
+Tlc.br,TLC FHD H265,http://gobr.ml:8080/Eduardo/1234/36853
+Trutv.br,TRUTV,http://gobr.ml:8080/Eduardo/1234/92
+Trutv.br,TRUTV*,http://gobr.ml:8080/Eduardo/1234/9643
+VH1UK.uk,VH1 HD,http://gobr.ml:8080/Eduardo/1234/53
+ext,VH1  FHD H265,http://gobr.ml:8080/Eduardo/1234/36857
+VH1MegaHits.br,VH1 MEGAHITS,http://gobr.ml:8080/Eduardo/1234/82
+Viva.br,VIVA,http://gobr.ml:8080/Eduardo/1234/79
+Viva.br,VIVA HD,http://gobr.ml:8080/Eduardo/1234/83
+Viva.br,VIVA FHD**,http://gobr.ml:8080/Eduardo/1234/13919
 
-#EXTINF:0 tvg-id="playboy" group-title="Adulto",Playboy TV
-http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="playboy" group-title="Adulto",Playboy TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="playboy" group-title="Adulto",Playboy TV HD
-http://lb.kstream.org/aovivo/HD_PLAYBOY/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",Playboy TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYBOY_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",SexPrive FHD
-http://lb.kstream.org/aovivo/FHD_SEXPRIVE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",SexPrive HD
-http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sextreme.ar" group-title="Adulto",Sextreme
-http://lb.kstream.org/aovivo/SD_SEXTREME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",Sextreme HD
-http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Sexyhot.br" group-title="Adulto",Sexy Hot
-http://lb.kstream.org/aovivo/SD_SEXYHOT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",Sexy Hot HD
-http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",Sexyzone HD
-http://lb.kstream.org/aovivo/HD_SEXYZONE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="VenusTV.uk" group-title="Adulto",Venus
-http://lb.kstream.org/aovivo/SD_VENUS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",Venus HD
-http://lb.kstream.org/aovivo/HD_VENUS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 1 (CAM)
-http://lb.kstream.org/aovivo/XXX_1/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 10 (TUSHY RAW)
-http://lb.kstream.org/aovivo/XXX_10/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 11 (BLACKED RAW)
-http://lb.kstream.org/aovivo/XXX_11/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 12 (VIXEN)
-http://lb.kstream.org/aovivo/XXX_12/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 13 (CHILI PORN)
-http://lb.kstream.org/aovivo/XXX_13/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 14 (SIRINA)
-http://lb.kstream.org/aovivo/XXX_14/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 15 (JASMIN)
-http://lb.kstream.org/aovivo/XXX_15/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 16 (GAY)
-http://lb.kstream.org/aovivo/XXX_16/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 17 (GAY)
-http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 2 (CAM)
-http://lb.kstream.org/aovivo/XXX_2/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 3 (CAM)
-http://lb.kstream.org/aovivo/XXX_ADULT_3/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 4 (DORCEL CLUB)
-http://lb.kstream.org/aovivo/XXX_4/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 5 (LEGAL PORNO)
-http://lb.kstream.org/aovivo/XXX_5/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 6 (FAMILY SINNERS)
-http://lb.kstream.org/aovivo/XXX_6/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 7 (CAM)
-http://lb.kstream.org/aovivo/XXX_7/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 8 (MOFOS)
-http://lb.kstream.org/aovivo/XXX_8/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Adulto",XXX 9 (HER LIMIT)
-http://lb.kstream.org/aovivo/XXX_9/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,DOCUMENTÁRIOS
+Animalplanet.br,ANIMAL PLANET**,http://gobr.ml:8080/Eduardo/1234/268
+Animalplanet.br,ANIMAL PLANET HD**,http://gobr.ml:8080/Eduardo/1234/267
+Animalplanet.br,ANIMAL PLANET FHD,http://gobr.ml:8080/Eduardo/1234/62778
+Animalplanet.br,ANIMAL PLANET  FHD H265,http://gobr.ml:8080/Eduardo/1234/36775
+Discovery.br,DISCOVERY CHANNEL*,http://gobr.ml:8080/Eduardo/1234/252
+Discovery.br,DISCOVERY CHANNEL HD**,http://gobr.ml:8080/Eduardo/1234/246
+Discovery.br,DISCOVERY CHANNEL FHD*,http://gobr.ml:8080/Eduardo/1234/13975
+Discovery.br,DISCOVERY CHANNEL  FHD H265,http://gobr.ml:8080/Eduardo/1234/36786
+DiscoveryScience.br,DISCOVERY SCIENCE*,http://gobr.ml:8080/Eduardo/1234/247
+DiscoveryScience.br,DISCOVERY SCIENCE HD,http://gobr.ml:8080/Eduardo/1234/57
+DiscoveryScience.br,DISCOVERY SCIENCE FHD**,http://gobr.ml:8080/Eduardo/1234/13972
+DiscoveryScience.br,DISCOVERY SCIENCE FHD H265,http://gobr.ml:8080/Eduardo/1234/36789
+Hdtheater.br,DISCOVERY THEATER HD,http://gobr.ml:8080/Eduardo/1234/251
+Hdtheater.br,DISCOVERY THEATER FHD**,http://gobr.ml:8080/Eduardo/1234/13971
+Hdtheater.br,DISCOVERY THEATER FHD H265,http://gobr.ml:8080/Eduardo/1234/36790
+Discturbohd.br,DISCOVERY TURBO,http://gobr.ml:8080/Eduardo/1234/243
+Discturbohd.br,DISCOVERY TURBO HD,http://gobr.ml:8080/Eduardo/1234/250
+Discturbohd.br,DISCOVERY TURBO FHD*,http://gobr.ml:8080/Eduardo/1234/13970
+Discturbohd.br,DISCOVERY TURBO  FHD H265,http://gobr.ml:8080/Eduardo/1234/36791
+Discturbohd.br,DISCOVERY  TURBO FHD*,http://gobr.ml:8080/Eduardo/1234/32853
+Discoveryworldhd.br,DISCOVERY WORLD HD,http://gobr.ml:8080/Eduardo/1234/244
+Discoveryworldhd.br,DISCOVERY WORLD FHD**,http://gobr.ml:8080/Eduardo/1234/13969
+DogTV354.us,DOGTV FHD,http://gobr.ml:8080/Eduardo/1234/73557
+DiscoveryCivilization.br,HGTV,http://gobr.ml:8080/Eduardo/1234/63423
+DiscoveryCivilization.br,HGTV HD,http://gobr.ml:8080/Eduardo/1234/63333
+DiscoveryCivilization.br,HGTV FHD,http://gobr.ml:8080/Eduardo/1234/63334
+Historychannel.br,HISTORY CHANNEL,http://gobr.ml:8080/Eduardo/1234/174
+Historychannel.br,HISTORY CHANNEL HD,http://gobr.ml:8080/Eduardo/1234/185
+Historychannel.br,HISTORY FHD**,http://gobr.ml:8080/Eduardo/1234/13950
+Historychannel.br,HISTORY  FHD H265,http://gobr.ml:8080/Eduardo/1234/36815
+history2-rus,H2,http://gobr.ml:8080/Eduardo/1234/106
+H2.br,H2 HD,http://gobr.ml:8080/Eduardo/1234/200
+H2.br,H2 FHD**,http://gobr.ml:8080/Eduardo/1234/13956
+H2.br,H2  FHD H265,http://gobr.ml:8080/Eduardo/1234/36814
+LoveNature.nl,LOVE NATURE FHD,http://gobr.ml:8080/Eduardo/1234/63422
+Natgeowildhd.br,NATGEO  WILD,http://gobr.ml:8080/Eduardo/1234/160
+Natgeowildhd.br,NATGEO WILD HD,http://gobr.ml:8080/Eduardo/1234/164
+Natgeowildhd.br,NATGEO WILD FHD*,http://gobr.ml:8080/Eduardo/1234/13944
+Natgeowildhd.br,NATGEO WILD FHD H265,http://gobr.ml:8080/Eduardo/1234/36826
+Nationalgeographic.br,NATGEO,http://gobr.ml:8080/Eduardo/1234/165
+Nationalgeographic.br,NATGEO HD,http://gobr.ml:8080/Eduardo/1234/26
+Nationalgeographic.br,NATGEO FHD,http://gobr.ml:8080/Eduardo/1234/13945
+Nationalgeographic.br,NATGEO FHD H265,http://gobr.ml:8080/Eduardo/1234/36824
+SmithsonianChannelHD.us,SMITHSONIAN CHANNEL HD,http://gobr.ml:8080/Eduardo/1234/62673
 
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta e YouTube",SBT RS HD
-http://lb.kstream.org/aovivo/HD_SBT_RS/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,CANAIS LEGENDADOS
+Ae.br,A&E HD DUAL,http://gobr.ml:8080/Eduardo/1234/69286
+Amc.br,AMC HD DUAL,http://gobr.ml:8080/Eduardo/1234/69185
+Animalplanet.br,ANIMAL PLANET HD DUAL,http://gobr.ml:8080/Eduardo/1234/69186
+Arte1.br,ARTE1 HD DUAL,http://gobr.ml:8080/Eduardo/1234/69187
+Axn.br,AXN HD DUAL,http://gobr.ml:8080/Eduardo/1234/69188
+Axn.br,AXN HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65704
+Axn.br,AXN FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65703
+BandRede.br,BAND HD DUAL,http://gobr.ml:8080/Eduardo/1234/69292
+Bandnews.br,BAND NEWS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69189
+Bishd.br,BIS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69191
+Boomerang.br,BOOMERANG HD DUAL,http://gobr.ml:8080/Eduardo/1234/69192
+Canalbrasil.br,CANAL BRASIL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69198
+Cartoonnetwork.br,CARTOON NETWORK HD DUAL,http://gobr.ml:8080/Eduardo/1234/69194
+Cinemax.br,CINEMAX HD DUAL,http://gobr.ml:8080/Eduardo/1234/69195
+ext,COMBATE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69196
+Comedycentral.br,COMEDY CENTRAL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69197
+ext,CURTA HD DUAL,http://gobr.ml:8080/Eduardo/1234/69199
+Homehealth.br,DISCOVERY-H&H HD DUAL,http://gobr.ml:8080/Eduardo/1234/69200
+ext,BAND SPORTS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69190
+Discovery.br,DISCOVERY CHANNEL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69201
+DiscoveryScience.br,DISCOVERY SCIENCE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69202
+Discovery.br,DISCOVERY THEATER HD DUAL,http://gobr.ml:8080/Eduardo/1234/69203
+Discovery.br,DISCOVERY TURBO HD DUAL,http://gobr.ml:8080/Eduardo/1234/69204
+Discoverykids.br,DISCOVERY KIDS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69205
+Discoveryworldhd.br,DISCOVERY WORLD HD DUAL,http://gobr.ml:8080/Eduardo/1234/69206
+Disneychannel.br,DISNEY CHANNEL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69207
+Disneyjrhd.br,DISNEY JUNIOR HD DUAL,http://gobr.ml:8080/Eduardo/1234/69210
+ESPNInternational.br,ESPN HD DUAL,http://gobr.ml:8080/Eduardo/1234/69284
+Espnextra.br,ESPN2 HD DUAL,http://gobr.ml:8080/Eduardo/1234/69288
+Espnextra.br,ESPN EXTRA HD DUAL,http://gobr.ml:8080/Eduardo/1234/69287
+ESPNInternational.br,ESPN BRASIL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69293
+E.br,E! HD DUAL,http://gobr.ml:8080/Eduardo/1234/69208
+Fishtv.br,FISH TV HD DUAL,http://gobr.ml:8080/Eduardo/1234/69209
+FilmArts.br,FILM ARTS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69211
+Foodnetworkhd.br,FOOD NETWORK HD DUAL,http://gobr.ml:8080/Eduardo/1234/69212
+Foxlife.br,FOX LIFE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69213
+Foxsports.br,FOX SPORTS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69216
+Foxsports2.br,FOX SPORTS 2 HD DUAL,http://gobr.ml:8080/Eduardo/1234/69217
+ext,FX HD DUAL,http://gobr.ml:8080/Eduardo/1234/69218
+Fox.br,FOX HD DUAL,http://gobr.ml:8080/Eduardo/1234/69285
+Fox.br,FOX HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65702
+Fox.br,FOX FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65701
+Foxpremium1.br,FOX PREMIUM 1 HD DUAL,http://gobr.ml:8080/Eduardo/1234/69214
+Foxpremium1.br,FOX PREMIUM 1 HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65706
+Foxpremium1.br,FOX PREMIUM 1 FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65705
+Foxpremium2.br,FOX PREMIUM 2 HD DUAL,http://gobr.ml:8080/Eduardo/1234/69215
+Foxpremium2.br,FOX PREMIUM 2 HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65708
+Foxpremium2.br,FOX PREMIUM 2 FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65707
+Globosp.br,GLOBO HD DUAL,http://gobr.ml:8080/Eduardo/1234/69290
+Hbo.br,HBO HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65690
+Hbo.br,HBO FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65689
+Maxup.br,HBO MUNDI HD  LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65696
+Max.br,HBO MUNDI FHD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65695
+Hboplus.br,HBO PLUS HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65692
+Hboplus.br,HBO PLUS FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65691
+Maxup.br,HBO POP HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65698
+Maxup.br,HBO POP FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65697
+Hbosignature.br,HBO SIGNATURE HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65694
+Hbosignature.br,HBO SIGNATURE FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65693
+Maxprime.br,HBO XTREAM HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65700
+Maxprime.br,HBO XTREME FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65699
+ext,HGTV HD DUAL,http://gobr.ml:8080/Eduardo/1234/69229
+Historychannel.br,HISTORY HD DUAL,http://gobr.ml:8080/Eduardo/1234/69233
+H2.br,HISTORY2 HD DUAL,http://gobr.ml:8080/Eduardo/1234/69291
+Investigacaodiscoveryid.br,ID HD DUAL,http://gobr.ml:8080/Eduardo/1234/69231
+ext,LIKE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69294
+ext,LOVE NATURE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69230
+Lifetime.br,LIFETIME HD DUAL,http://gobr.ml:8080/Eduardo/1234/69232
+Megapix.br,MEGAPIX HD DUAL,http://gobr.ml:8080/Eduardo/1234/69235
+Mtv.br,MTV HD DUAL,http://gobr.ml:8080/Eduardo/1234/69236
+ext,MTV LIVE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69237
+Multishow.br,MULTISHOW HD DUAL,http://gobr.ml:8080/Eduardo/1234/69243
+ext,MUSIC BOX BRAZIL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69238
+ext,NATGEO KIDS HD DUAL,http://gobr.ml:8080/Eduardo/1234/69239
+Nationalgeographic.br,NATGEO WILD HD DUAL,http://gobr.ml:8080/Eduardo/1234/69240
+Natgeowildhd.br,NATGEO HD DUAL,http://gobr.ml:8080/Eduardo/1234/69241
+Off.br,OFF HD DUAL,http://gobr.ml:8080/Eduardo/1234/69242
+Paramounthd.br,PARAMOUNT HD DUAL,http://gobr.ml:8080/Eduardo/1234/69244
+ext,SMITHSONIAN HD DUAL,http://gobr.ml:8080/Eduardo/1234/69254
+Sony.br,SONY HD DUAL,http://gobr.ml:8080/Eduardo/1234/69193
+Studiouniversal.br,STUDIO UNIVERSAL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69259
+Syfy.br,SYFY HD DUAL,http://gobr.ml:8080/Eduardo/1234/69261
+Tlc.br,TLC HD DUAL,http://gobr.ml:8080/Eduardo/1234/69269
+Tnt.br,TNT HD DUAL,http://gobr.ml:8080/Eduardo/1234/69270
+TNTSerie.br,TNT SERIES HD DUAL,http://gobr.ml:8080/Eduardo/1234/69271
+Tcaction.br,TC ACTION HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65682
+Tcaction.br,TC ACTION FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65681
+Tccult.br,TC CULT HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65688
+Tccult.br,TC CULT FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65687
+Tcfun.br,TC FUN HD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65686
+Tcfun.br,TC FUN FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65685
+Tcpipoca.br,TC PIPOCA HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65678
+Tcpipoca.br,TC PIPOCA FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65677
+Tcpremium.br,TC PREMIUM HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65680
+Tcpremium.br,TC PREMIUM FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65679
+Tctouch.br,TC TOUCH HD LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65684
+Tctouch.br,TC TOUCH FHD H264 LEGENDADO,http://gobr.ml:8080/Eduardo/1234/65683
+Universalchannel.br,UNIVERSAL TV HD DUAL,http://gobr.ml:8080/Eduardo/1234/69276
+Warnerchannel.br,WARNER CHANNEL HD DUAL,http://gobr.ml:8080/Eduardo/1234/69279
+Space.br,SPACE HD DUAL,http://gobr.ml:8080/Eduardo/1234/69256
 
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Filme e Telecine",Telecine Action
-http://lb.kstream.org/aovivo/SD_TC_ACTION/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Filme e Telecine",Telecine Action HD
-http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Telecine",Telecine Action HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tccult.br" group-title="Filme e Telecine",Telecine Cult
-http://lb.kstream.org/aovivo/SD_TC_CULT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcculthd.br" group-title="Filme e Telecine",Telecine Cult HD
-http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Telecine",Telecine Cult HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcfun.br" group-title="Filme e Telecine",Telecine Fun
-http://lb.kstream.org/aovivo/SD_TC_FUN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Filme e Telecine",Telecine Fun HD
-http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Telecine",Telecine Fun HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filme e Telecine",Telecine Pipoca
-http://lb.kstream.org/aovivo/SD_TC_PIPOCA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filme e Telecine",Telecine Pipoca HD
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Telecine",Telecine Pipoca HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filme e Telecine",Telecine Premium
-http://lb.kstream.org/aovivo/SD_TC_PREMIUM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filme e Telecine",Telecine Premium HD
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Telecine",Telecine Premium HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tctouch.br" group-title="Filme e Telecine",Telecine Touch
-http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Filme e Telecine",Telecine Touch HD
-http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Filme e Telecine",Telecine Touch HD [Alter]
-http://lb.kstream.org/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,GRADE ALTERNATIVA 1
+BandRede.br,BAND HD ALT,http://gobr.ml:8080/Eduardo/1234/40294
+BandRede.br,BAND FHD ALT,http://gobr.ml:8080/Eduardo/1234/40295
+BandRede.br,BAND SP FHD ALT,http://gobr.ml:8080/Eduardo/1234/40296
+Bishd.br,BIS HD ALT,http://gobr.ml:8080/Eduardo/1234/40292
+Canalbrasil.br,CANAL BRASIL HD ALT,http://gobr.ml:8080/Eduardo/1234/40288
+CanaldoBoi.br,CANAL DO BOI ALT,http://gobr.ml:8080/Eduardo/1234/40285
+Cartoonnetwork.br,CARTOON NETWORK FHD ALT,http://gobr.ml:8080/Eduardo/1234/40289
+ext,CINE ALT,http://gobr.ml:8080/Eduardo/1234/40284
+ext,CNT SP ALT,http://gobr.ml:8080/Eduardo/1234/40286
+ext,COMBATE ALT,http://gobr.ml:8080/Eduardo/1234/40278
+ext,COMBATE HD ALT,http://gobr.ml:8080/Eduardo/1234/40279
+Ae.br,DAZN ALT,http://gobr.ml:8080/Eduardo/1234/40274
+Ae.br,DAZN FHD ALT,http://gobr.ml:8080/Eduardo/1234/40275
+Discovery.br,DISCOVERY CHANNEL FHD ALT,http://gobr.ml:8080/Eduardo/1234/40273
+DiscoveryCivilization.br,DISCOVERY CIVILIZATION ALT,http://gobr.ml:8080/Eduardo/1234/40268
+DiscoveryScience.br,DISCOVERY SCIENCE ALT,http://gobr.ml:8080/Eduardo/1234/40267
+Hdtheater.br,DISCOVERY THEATER ALT,http://gobr.ml:8080/Eduardo/1234/40266
+Discturbohd.br,DISCOVERY TURBO FHD ALT,http://gobr.ml:8080/Eduardo/1234/40269
+Discoveryworldhd.br,DISCOVERY WORLD ALT,http://gobr.ml:8080/Eduardo/1234/40265
+Disneychannel.br,DISNEY CHANNEL HD ALT,http://gobr.ml:8080/Eduardo/1234/40263
+Disneyjrhd.br,DISNEY JUNIOR ALT,http://gobr.ml:8080/Eduardo/1234/40259
+Disneyjrhd.br,DISNEY JUNIOR HD ALT,http://gobr.ml:8080/Eduardo/1234/40260
+Disneyxd.br,DISNEY XD ALT,http://gobr.ml:8080/Eduardo/1234/40256
+Disneyxd.br,DISNEY XD HD ALT,http://gobr.ml:8080/Eduardo/1234/40257
+ext,EI PLUS 1 HD ALT,http://gobr.ml:8080/Eduardo/1234/40254
+ext,EI PLUS 2 HD ALT,http://gobr.ml:8080/Eduardo/1234/40253
+ESPN+.br,ESPN 2 ALT,http://gobr.ml:8080/Eduardo/1234/40248
+ESPN+.br,ESPN 2 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40247
+Espnbrasil.br,ESPN BRASIL ALT,http://gobr.ml:8080/Eduardo/1234/40246
+Espnbrasil.br,ESPN BRASIL FHD ALT,http://gobr.ml:8080/Eduardo/1234/40244
+Espnextra.br,ESPN EXTRA ALT,http://gobr.ml:8080/Eduardo/1234/40243
+Espnextra.br,ESPN EXTRA FHD ALT,http://gobr.ml:8080/Eduardo/1234/40241
+ESPN+.br,ESPN ALT,http://gobr.ml:8080/Eduardo/1234/40250
+ESPN+.br,ESPN FHD ALT,http://gobr.ml:8080/Eduardo/1234/40249
+ext,ESPORTE INTERATIVO ALT,http://gobr.ml:8080/Eduardo/1234/40251
+ext,ESPORTE INTERATIVO HD ALT,http://gobr.ml:8080/Eduardo/1234/40252
+Fox.br,FOX FHD ALT,http://gobr.ml:8080/Eduardo/1234/40235
+Foxpremium1.br,FOX PREMIUM 1 ALT,http://gobr.ml:8080/Eduardo/1234/40232
+Foxpremium1.br,FOX PREMIUM 1 HD ALT,http://gobr.ml:8080/Eduardo/1234/40233
+Foxpremium1.br,FOX PREMIUM 1 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40133
+Foxpremium2.br,FOX PREMIUM 2 ALT,http://gobr.ml:8080/Eduardo/1234/40230
+Foxpremium2.br,FOX PREMIUM 2 HD ALT,http://gobr.ml:8080/Eduardo/1234/40231
+Foxsports2.br,FOX SPORTS 2 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40228
+Foxsports.br,FOX SPORTS FHD ALT,http://gobr.ml:8080/Eduardo/1234/40225
+Futura.br,FUTURA ALT,http://gobr.ml:8080/Eduardo/1234/40223
+Fx.br,FX ALT,http://gobr.ml:8080/Eduardo/1234/40229
+Globosp.br,GLOBO SJRP ALT,http://gobr.ml:8080/Eduardo/1234/40199
+ext,GLOBO TV LIBERAL BELEM ALT,http://gobr.ml:8080/Eduardo/1234/40066
+Vangsaojchd.br,GLOBO TV VANGUARDA SAO  JOSE DOS CAMPOS ALT,http://gobr.ml:8080/Eduardo/1234/40193
+Verdesmares.br,GLOBO TV VERDES MARES FORTALEZA ALT,http://gobr.ml:8080/Eduardo/1234/40065
+Gloob.br,GLOOB HD ALT,http://gobr.ml:8080/Eduardo/1234/40192
+ext,GLOOBINHO ALT,http://gobr.ml:8080/Eduardo/1234/40189
+ext,GLOOBINHO HD ALT,http://gobr.ml:8080/Eduardo/1234/40190
+Gnt.br,GNT HD ALT,http://gobr.ml:8080/Eduardo/1234/40188
+Hbo2.br,HBO 2 HD ALT,http://gobr.ml:8080/Eduardo/1234/40184
+Hbofamily.br,HBO FAMILY ALT,http://gobr.ml:8080/Eduardo/1234/40181
+Hbofamily.br,HBO FAMILY HD ALT,http://gobr.ml:8080/Eduardo/1234/40182
+Hbo.br,HBO HD ALT,http://gobr.ml:8080/Eduardo/1234/40186
+Hboplus.br,HBO PLUS ALT,http://gobr.ml:8080/Eduardo/1234/40179
+Hboplus.br,HBO PLUS HD ALT,http://gobr.ml:8080/Eduardo/1234/40180
+Hbosignature.br,HBO SIGNATURE HD ALT,http://gobr.ml:8080/Eduardo/1234/40178
+ext,INTERNATIONAL CHAMPIONS CUP ALT,http://gobr.ml:8080/Eduardo/1234/40174
++globosat.br,MAIS GLOBOSAT HD ALT,http://gobr.ml:8080/Eduardo/1234/40172
+Max.br,HBO MUNDI ALT,http://gobr.ml:8080/Eduardo/1234/40169
+Hbo.br,HBO POP ALT,http://gobr.ml:8080/Eduardo/1234/40168
+Multishow.br,MULTISHOW HD ALT,http://gobr.ml:8080/Eduardo/1234/40165
+Off.br,OFF ALT,http://gobr.ml:8080/Eduardo/1234/40157
+Off.br,OFF HD ALT,http://gobr.ml:8080/Eduardo/1234/40156
+Paramounthd.br,PARAMOUNT CHANNEL ALT,http://gobr.ml:8080/Eduardo/1234/40155
+Premiereclubes.br,PREMIERE CLUBES HD ALT,http://gobr.ml:8080/Eduardo/1234/40141
+ext,PREMIERE CLUBES FHD ALT,http://gobr.ml:8080/Eduardo/1234/40142
+Premiere2.br,PREMIERE 2 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40138
+Premiere3.br,PREMIERE 3 ALT,http://gobr.ml:8080/Eduardo/1234/40150
+Premiere3.br,PREMIERE 3 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40137
+Premiere4.br,PREMIERE 4 ALT,http://gobr.ml:8080/Eduardo/1234/40148
+Premiere4.br,PREMIERE 4 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40136
+Premiere5.br,PREMIERE 5 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40135
+Premiere6.br,PREMIERE 6 ALT,http://gobr.ml:8080/Eduardo/1234/40145
+Premiere6.br,PREMIERE 6 FHD ALT,http://gobr.ml:8080/Eduardo/1234/40134
+Premiere8.br,PREMIERE 8 ALT,http://gobr.ml:8080/Eduardo/1234/40143
+Rederecord.br,RECORD ALT,http://gobr.ml:8080/Eduardo/1234/40118
+Rederecord.br,RECORD BELEM ALT,http://gobr.ml:8080/Eduardo/1234/40132
+Rederecord.br,RECORD BRASILIA ALT,http://gobr.ml:8080/Eduardo/1234/40130
+Rederecord.br,RECORD ITAPOAN ALT,http://gobr.ml:8080/Eduardo/1234/40128
+Rederecord.br,RECORD MINAS ALT,http://gobr.ml:8080/Eduardo/1234/40126
+Recordnews.br,RECORD NEWS ALT,http://gobr.ml:8080/Eduardo/1234/40123
+Rederecord.br,RECORD RIO ALT,http://gobr.ml:8080/Eduardo/1234/40121
+Rederecord.br,RECORD RS ALT,http://gobr.ml:8080/Eduardo/1234/40119
+ext,REDE PAI ETERNO ALT,http://gobr.ml:8080/Eduardo/1234/40115
+Redevida.br,REDE VIDA ALT,http://gobr.ml:8080/Eduardo/1234/40114
+Redevida.br,REDE VIDA HD ALT,http://gobr.ml:8080/Eduardo/1234/40113
+Redetv.br,REDETV FHD ALT,http://gobr.ml:8080/Eduardo/1234/40116
+Sbt.br,SBT ALT,http://gobr.ml:8080/Eduardo/1234/40111
+Sbt.br,SBT HD ALT,http://gobr.ml:8080/Eduardo/1234/40112
+Sbt.br,SBT INTERIOR FHD ALT,http://gobr.ml:8080/Eduardo/1234/40106
+Sbt.br,SBT SP FHD ALT,http://gobr.ml:8080/Eduardo/1234/40107
+Sbt.br,SBT SP ALT,http://gobr.ml:8080/Eduardo/1234/40105
+Sony.br,SONY ALT,http://gobr.ml:8080/Eduardo/1234/70693
+Sony.br,SONY HD ALT,http://gobr.ml:8080/Eduardo/1234/70694
+Space.br,SPACE ALT,http://gobr.ml:8080/Eduardo/1234/40102
+Sportv2.br,SPORTV 2 HD ALT,http://gobr.ml:8080/Eduardo/1234/40098
+Sportv3.br,SPORTV 3 HD ALT,http://gobr.ml:8080/Eduardo/1234/40096
+Sportv.br,SPORTV HD ALT,http://gobr.ml:8080/Eduardo/1234/40100
+Sportv.br,SPORTV FHD ALT,http://gobr.ml:8080/Eduardo/1234/40101
+Studiouniversal.br,STUDIO UNIVERSAL ALT,http://gobr.ml:8080/Eduardo/1234/40094
+Syfy.br,SYFY ALT,http://gobr.ml:8080/Eduardo/1234/40093
+Tcm.br,TCM ALT,http://gobr.ml:8080/Eduardo/1234/40090
+Tcaction.br,TELECINE ACTION ALT,http://gobr.ml:8080/Eduardo/1234/40088
+Tcaction.br,TELECINE ACTION HD ALT,http://gobr.ml:8080/Eduardo/1234/40089
+Tcaction.br,TELECINE ACTION FHD ALT,http://gobr.ml:8080/Eduardo/1234/40139
+Tccult.br,TELECINE CULT HD ALT,http://gobr.ml:8080/Eduardo/1234/40087
+Tcfun.br,TELECINE FUN ALT,http://gobr.ml:8080/Eduardo/1234/40084
+Tcfun.br,TELECINE FUN HD ALT,http://gobr.ml:8080/Eduardo/1234/40085
+Tcpipoca.br,TELECINE PIPOCA ALT,http://gobr.ml:8080/Eduardo/1234/40082
+Tcpipoca.br,TELECINE PIPOCA HD ALT,http://gobr.ml:8080/Eduardo/1234/40083
+Tcpremium.br,TELECINE PREMIUM HD ALT,http://gobr.ml:8080/Eduardo/1234/40081
+Tctouch.br,TELECINE TOUCH HD ALT,http://gobr.ml:8080/Eduardo/1234/40079
+Terraviva.br,TERRA VIVA HD ALT,http://gobr.ml:8080/Eduardo/1234/40092
+TNTSerie.br,TNT SERIES FHD ALT,http://gobr.ml:8080/Eduardo/1234/40074
+Trutv.br,TRUTV ALT,http://gobr.ml:8080/Eduardo/1234/40067
+Tvaparecida.br,TV APARECIDA ALT,http://gobr.ml:8080/Eduardo/1234/40053
+ext,TV EVANGELIZAR ALT,http://gobr.ml:8080/Eduardo/1234/40068
+TVGazeta.br,TV GAZETA HD ALT,http://gobr.ml:8080/Eduardo/1234/40070
+ext,TV GUARULHOS HD ALT,http://gobr.ml:8080/Eduardo/1234/40069
+Universalchannel.br,UNIVERSAL TV FHD ALT,http://gobr.ml:8080/Eduardo/1234/40064
+Viva.br,VIVA HD ALT,http://gobr.ml:8080/Eduardo/1234/40061
+Warnerchannel.br,WARNER CHANNEL FHD ALT,http://gobr.ml:8080/Eduardo/1234/40059
 
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] 89 FM
-http://lb.kstream.org/aovivo/RADIO_89FM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] 98 FM
-http://lb.kstream.org/aovivo/RADIO_98FM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] Alpha FM
-http://lb.kstream.org/aovivo/RADIO_ALPHAFM/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] Cidade
-http://lb.kstream.org/aovivo/RADIO_CIDADE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] Dumont
-http://lb.kstream.org/aovivo/RADIO_DUMONT/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] Guaiba
-http://lb.kstream.org/aovivo/RADIO_GUAIBA/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] JB
-http://lb.kstream.org/aovivo/RADIO_JB/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] Sociedade
-http://lb.kstream.org/aovivo/RADIO_SOCIEDADE/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
-#EXTINF:0 tvg-id="ext" group-title="Radio",[RADIO] Transcontinental
-http://lb.kstream.org/aovivo/RADIO_TRANSCONTINENTAL/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,GOBR ESPECIAIS
+ext,GOBR BRASIL,http://gobr.ml:8080/Eduardo/1234/19392
+ext,GOBR HARRY POTTER,http://gobr.ml:8080/Eduardo/1234/19538
+ext,GOBR VELOZES & FURIOSOS,http://gobr.ml:8080/Eduardo/1234/34148
+ext,GOBR MARVEL,http://gobr.ml:8080/Eduardo/1234/34149
+ext,GOBR CAVERNA DO DRAGÃO,http://gobr.ml:8080/Eduardo/1234/34152
+ext,GOBR STAR WARS,http://gobr.ml:8080/Eduardo/1234/34163
+ext,GOBR HANNA BARBERA,http://gobr.ml:8080/Eduardo/1234/34217
+ext,GOBR TOM & JERRY,http://gobr.ml:8080/Eduardo/1234/34230
+ext,GOBR MUSIC SERTANEJO,http://gobr.ml:8080/Eduardo/1234/34481
+ext,GOBR MUSIC ROCK N ROLL,http://gobr.ml:8080/Eduardo/1234/34482
+ext,GOBR FILMES PIXAR,http://gobr.ml:8080/Eduardo/1234/34483
+ext,GOBR ROCK BALBOA,http://gobr.ml:8080/Eduardo/1234/34524
+ext,GOBR ACTION,http://gobr.ml:8080/Eduardo/1234/34526
+ext,GOBR IRMÃOS A OBRA,http://gobr.ml:8080/Eduardo/1234/35564
+ext,GOBR MUSIC FUNK,http://gobr.ml:8080/Eduardo/1234/35567
+ext,GOBR O SÓCIO,http://gobr.ml:8080/Eduardo/1234/35569
+ext,GOBR FILMES LEGO,http://gobr.ml:8080/Eduardo/1234/36284
+ext,GOBR DC COMICS ANIMATED,http://gobr.ml:8080/Eduardo/1234/36420
+ext,GOBR TODO MUNDO ODEIA O CHRIS,http://gobr.ml:8080/Eduardo/1234/37965
+ext,GOBR MUNDO BITA,http://gobr.ml:8080/Eduardo/1234/37966
+ext,GOBR BOB ZOOM,http://gobr.ml:8080/Eduardo/1234/37967
+ext,GOBR GAME OF THRONES,http://gobr.ml:8080/Eduardo/1234/38014
+ext,GOBR DRAGON BALL SUPER,http://gobr.ml:8080/Eduardo/1234/38196
+ext,GOBR DRAGON BALL KAI,http://gobr.ml:8080/Eduardo/1234/38222
+ext,GOBR CAILLOU,http://gobr.ml:8080/Eduardo/1234/38631
+ext,GOBR  DANIEL TIGRE,http://gobr.ml:8080/Eduardo/1234/38681
+ext,GOBR SPEED RACER,http://gobr.ml:8080/Eduardo/1234/38896
+ext,GOBR LUCCAS NETO,http://gobr.ml:8080/Eduardo/1234/38897
+ext,GOBR CLUBE DA ANITTINHA,http://gobr.ml:8080/Eduardo/1234/38899
+ext,GOBR 3 PALAVRINHAS,http://gobr.ml:8080/Eduardo/1234/39168
+ext,GOBR PEGADINHAS,http://gobr.ml:8080/Eduardo/1234/39169
+ext,GOBR PALAVRA CANTADA,http://gobr.ml:8080/Eduardo/1234/39170
+ext,GOBR BABY SHARK - PINKFONG,http://gobr.ml:8080/Eduardo/1234/40623
+ext,GOBR TRAVEL,http://gobr.ml:8080/Eduardo/1234/40624
+ext,GOBR SIMON - O COELHO .,http://gobr.ml:8080/Eduardo/1234/40725
 
-#EXTINF:0 tvg-id="ext" group-title="YouTube e Radio",[RADIO] Tomorrowland
-http://lb.kstream.org/aovivo/HD_TOMORROWLAND/video.m3u8?token=9f0d2d5a141aca7da6fde9a10610012f
+group,ESPECIAIS 24HORAS
+ext,A PANTERA COR DE ROSA 24 HRS,http://gobr.ml:8080/Eduardo/1234/17
+ext,ALLADIN 24HRS,http://gobr.ml:8080/Eduardo/1234/33894
+ext,AS TARTARUGAS MUTANTES NINJA 24 HRS,http://gobr.ml:8080/Eduardo/1234/33896
+ext,A CORRIDA ESPACIAL 24HRS,http://gobr.ml:8080/Eduardo/1234/65382
+ext,ARMACAO ILIMITADA 24 HRS,http://gobr.ml:8080/Eduardo/1234/33885
+ext,ANIMANIACS 24HRS,http://gobr.ml:8080/Eduardo/1234/65383
+ext,A GRANDE FAMILIA 24HRS,http://gobr.ml:8080/Eduardo/1234/65458
+ext,AS AVENTURAS DE JACKIE CHAN 24 HRS,http://gobr.ml:8080/Eduardo/1234/19
+ext,BOB ESPONJA 24hrs,http://gobr.ml:8080/Eduardo/1234/10383
+ext,BABY LOONEY TUNES 24 HRS,http://gobr.ml:8080/Eduardo/1234/33881
+ext,BEN 10 24HRS,http://gobr.ml:8080/Eduardo/1234/78261
+ext,BEYBLADE 24 HRS,http://gobr.ml:8080/Eduardo/1234/65347
+ext,BOB ESPONJA 24HRS,http://gobr.ml:8080/Eduardo/1234/65360
+ext,BRASIL VISTO DE CIMA 24HRS,http://gobr.ml:8080/Eduardo/1234/65463
+ext,CHAVES 24 HRS,http://gobr.ml:8080/Eduardo/1234/18
+ext,CORAGEM O CAO COVARDE 24 HRS,http://gobr.ml:8080/Eduardo/1234/33889
+ext,CHAVES DESENHO 24 HRS,http://gobr.ml:8080/Eduardo/1234/33890
+ext,CAVALO DE FOGO 24HRS,http://gobr.ml:8080/Eduardo/1234/65428
+ext,CSI: MIAMI 24HRS,http://gobr.ml:8080/Eduardo/1234/65451
+ext,CAPITAO CAVERNA 24HRS,http://gobr.ml:8080/Eduardo/1234/65385
+ext,[24H] CORRIDA MALUCA,http://gobr.ml:8080/Eduardo/1234/65410
+ext,DRAGON BALL SUPER 24 HRS,http://gobr.ml:8080/Eduardo/1234/16
+ext,DOIS HOMENS E MEIO 24 HRS,http://gobr.ml:8080/Eduardo/1234/10378
+ext,DENIS O PIMENTINHA 24 HRS,http://gobr.ml:8080/Eduardo/1234/10379
+ext,DESENHOS BIBLICOS 24 HRS,http://gobr.ml:8080/Eduardo/1234/33884
+ext,DISNEY RETRO 24 HRS,http://gobr.ml:8080/Eduardo/1234/33886
+ext,DIGIMON 24HRS,http://gobr.ml:8080/Eduardo/1234/65481
+ext,DOUG 24HRS,http://gobr.ml:8080/Eduardo/1234/65483
+ext,DOCUMENTARIOS MEGACONSTRUCOES 24 HRS,http://gobr.ml:8080/Eduardo/1234/65414
+ext,DE FERIAS COM O EX 24H,http://gobr.ml:8080/Eduardo/1234/65438
+ext,DUCKTALES 24HRS,http://gobr.ml:8080/Eduardo/1234/65461
+ext,ESQUILO SEM GRILO 24HRS,http://gobr.ml:8080/Eduardo/1234/65459
+ext,EU: A PATROA E AS CRIANCAS 24 HRS,http://gobr.ml:8080/Eduardo/1234/33883
+ext,FAMILIA ADAMS 24HRS,http://gobr.ml:8080/Eduardo/1234/65380
+ext,FRANKENSTEIN JUNIOR 24HRS,http://gobr.ml:8080/Eduardo/1234/65429
+ext,FAMILIA DINOSSAUROS 24H,http://gobr.ml:8080/Eduardo/1234/65437
+ext,FLASH GORDON 24HRS,http://gobr.ml:8080/Eduardo/1234/65439
+ext,FAMILIA ADDAMS 24HRS,http://gobr.ml:8080/Eduardo/1234/65454
+ext,FANTASTICO MUNDO DE BOBY 24 HRS,http://gobr.ml:8080/Eduardo/1234/10367
+ext,GALINHA PINTADINHA 24HRS,http://gobr.ml:8080/Eduardo/1234/65361
+ext,G.I JOE: SIGMA 6 24HRS,http://gobr.ml:8080/Eduardo/1234/65388
+ext,GREG NEWS 24HRS,http://gobr.ml:8080/Eduardo/1234/65389
+ext,GALINHA PINTADINHA  24 HRS,http://gobr.ml:8080/Eduardo/1234/10375
+ext,GATO FELIX 24HRS,http://gobr.ml:8080/Eduardo/1234/65430
+ext,HOMEM ARANHA 24 HRS,http://gobr.ml:8080/Eduardo/1234/33878
+ext,HOMEM DE FERRO 24 HRS,http://gobr.ml:8080/Eduardo/1234/33879
+ext,HE-MAN 24 HRS,http://gobr.ml:8080/Eduardo/1234/33880
+ext,HISTORIAS DISNEY 24HRS,http://gobr.ml:8080/Eduardo/1234/65484
+ext,ICARLY 24RS,http://gobr.ml:8080/Eduardo/1234/65455
+ext,INCRIVEL HULK 24 HORAS,http://gobr.ml:8080/Eduardo/1234/9731
+ext,JASPION 24 HRS,http://gobr.ml:8080/Eduardo/1234/10374
+ext,JIRAYA,http://gobr.ml:8080/Eduardo/1234/10388
+ext,KENAN E KEL 24 HRS,http://gobr.ml:8080/Eduardo/1234/33874
+ext,LADY NIGHT 2HRS,http://gobr.ml:8080/Eduardo/1234/65415
+ext,LIGA DA JUSTICA 24HRS,http://gobr.ml:8080/Eduardo/1234/33875
+ext,LULUZINHA 24 HRS,http://gobr.ml:8080/Eduardo/1234/33876
+ext,LIGEIRINHO 24HRS,http://gobr.ml:8080/Eduardo/1234/65457
+ext,[24H] LARVAS,http://gobr.ml:8080/Eduardo/1234/65394
+ext,[SERIE]LA CASA DE PAPEL 24HRS,http://gobr.ml:8080/Eduardo/1234/65342
+ext,[SERIES]LUCIFER 24HRS,http://gobr.ml:8080/Eduardo/1234/65343
+ext,MR BEAN 24 HRS,http://gobr.ml:8080/Eduardo/1234/9732
+ext,MORTAL COMBAT 24HRS,http://gobr.ml:8080/Eduardo/1234/33870
+ext,MIB: HOMENS DE PRETO A SERIE 24HRS,http://gobr.ml:8080/Eduardo/1234/33871
+ext,CASTELO RA TIM BUM 24 HRS,http://gobr.ml:8080/Eduardo/1234/33872
+ext,MEDABOTS 24 HRS,http://gobr.ml:8080/Eduardo/1234/33873
+ext,MENINAS SUPERPODEROSAS 24HRS,http://gobr.ml:8080/Eduardo/1234/33893
+ext,MASTER CHEF (TEMP1)  24HRS,http://gobr.ml:8080/Eduardo/1234/65359
+ext,MASHA E O URSO 24h,http://gobr.ml:8080/Eduardo/1234/65362
+ext,MASTER CHEF JUNIOR 24HRS,http://gobr.ml:8080/Eduardo/1234/65365
+ext,MEGA MAN 2HRS,http://gobr.ml:8080/Eduardo/1234/65372
+ext,MONICA TOY,http://gobr.ml:8080/Eduardo/1234/65441
+ext,NARUTO SHIPPUDEN 24HRS,http://gobr.ml:8080/Eduardo/1234/10373
+ext,NARUTO 24 HRS,http://gobr.ml:8080/Eduardo/1234/33868
+ext,OS CAVALEIROS DO ZODIACO 24HRS,http://gobr.ml:8080/Eduardo/1234/11
+ext,OS TRAPALHOES 24HRS,http://gobr.ml:8080/Eduardo/1234/14
+ext,O MASCARA 24 HRS,http://gobr.ml:8080/Eduardo/1234/13
+ext,OS FLINTSTONES 24HRS,http://gobr.ml:8080/Eduardo/1234/14927
+ext,O MARINHEIRO POPEYE 24 HRS,http://gobr.ml:8080/Eduardo/1234/33859
+ext,OS SIMPSONS 24HRS,http://gobr.ml:8080/Eduardo/1234/33865
+ext,O INSPETOR 24 HRS,http://gobr.ml:8080/Eduardo/1234/33867
+ext,O PIRATA DO ESPACO  GROIZER  24HRS,http://gobr.ml:8080/Eduardo/1234/65348
+ext,O MENTALISTA 24HRS,http://gobr.ml:8080/Eduardo/1234/65349
+ext,OS BACKYARDIGANS 24HRS,http://gobr.ml:8080/Eduardo/1234/65363
+ext,OS APUROS DE PENELOPE CHARMOSA 24HRS,http://gobr.ml:8080/Eduardo/1234/65373
+ext,OS RONI 24HRS,http://gobr.ml:8080/Eduardo/1234/65377
+ext,O ESPETACULAR HOMEM ARANHA 24HRS,http://gobr.ml:8080/Eduardo/1234/65392
+ext,OS PINGUINS DE MADAGASCAR 24HRS,http://gobr.ml:8080/Eduardo/1234/65397
+ext,OS SETE MONSTRINHOS 24HRS,http://gobr.ml:8080/Eduardo/1234/65398
+ext,OS SMURFS 24HRS,http://gobr.ml:8080/Eduardo/1234/65399
+ext,[O PEQUENO URSO 24HRS,http://gobr.ml:8080/Eduardo/1234/65431
+ext,OS JETSONS 24HRS,http://gobr.ml:8080/Eduardo/1234/65432
+ext,O MUNDO DA HELLO KITTY 24HRS,http://gobr.ml:8080/Eduardo/1234/65444
+ext,PEPPA PIG 24 HORAS,http://gobr.ml:8080/Eduardo/1234/9729
+ext,RICK AND MORTY 24 HRS,http://gobr.ml:8080/Eduardo/1234/78262
+ext,SOUTH PARK 24 HRS,http://gobr.ml:8080/Eduardo/1234/10368
+ext,THE BIG BANG THEORY 24HRS,http://gobr.ml:8080/Eduardo/1234/9730
+ext,PATATI PATATA 24 HRS,http://gobr.ml:8080/Eduardo/1234/10371
+ext,PICA-PAU 24 HRS,http://gobr.ml:8080/Eduardo/1234/10
+ext,PAPA LEGUAS 24 HRS,http://gobr.ml:8080/Eduardo/1234/12197
+ext,PERNALONGA 24 HRS,http://gobr.ml:8080/Eduardo/1234/33861
+ext,BACKYARDIGANS 24 HRS,http://gobr.ml:8080/Eduardo/1234/33864
+ext,POCOYO,http://gobr.ml:8080/Eduardo/1234/12196
+ext,PATRULHA CANINA 24HRS,http://gobr.ml:8080/Eduardo/1234/60832
+ext,PJ MASK 24HRS,http://gobr.ml:8080/Eduardo/1234/65376
+ext,PADRINHOS MAGICOS 24HRS,http://gobr.ml:8080/Eduardo/1234/65400
+ext,POKEMON,http://gobr.ml:8080/Eduardo/1234/65405
+ext,PISCINAS INCRIVEIS 24H,http://gobr.ml:8080/Eduardo/1234/65426
+ext,POLICIA 24 HORAS 24RS,http://gobr.ml:8080/Eduardo/1234/65499
+ext,PINKY E O CEREBRO 24HRS,http://gobr.ml:8080/Eduardo/1234/65453
+ext,PHINEAS E FERB 24HRS,http://gobr.ml:8080/Eduardo/1234/65401
+ext,RAMBO DESENHO ANIMADO 24 HRS,http://gobr.ml:8080/Eduardo/1234/33857
+ext,RIQUINHO 24HRS,http://gobr.ml:8080/Eduardo/1234/65452
+ext,SNOOPY 24HRS,http://gobr.ml:8080/Eduardo/1234/10384
+ext,SPEED RACER 24 HRS,http://gobr.ml:8080/Eduardo/1234/33850
+ext,CHAPOLIN COLORADO 24 HORAS,http://gobr.ml:8080/Eduardo/1234/33852
+ext,SUPERMAN 24 HRS,http://gobr.ml:8080/Eduardo/1234/33854
+ext,SOBRENATURAL 24HRS,http://gobr.ml:8080/Eduardo/1234/33855
+ext,SMALLVILLE 24 HRS,http://gobr.ml:8080/Eduardo/1234/33856
+ext,SCOOBY DOO,http://gobr.ml:8080/Eduardo/1234/10369
+ext,SHOW DA LUNA 24HRS,http://gobr.ml:8080/Eduardo/1234/65350
+ext,SONIC X 24HRS,http://gobr.ml:8080/Eduardo/1234/65381
+ext,SHARK TANK BRASIL 24HRS,http://gobr.ml:8080/Eduardo/1234/65417
+ext,SUPER CHOQUE 24HRS,http://gobr.ml:8080/Eduardo/1234/65456
+ext,STREET FIGHTER 2 24HRS,http://gobr.ml:8080/Eduardo/1234/65469
+ext,STEVEN UNIVERSE 24HRS,http://gobr.ml:8080/Eduardo/1234/65496
+ext,[24H] STAR WARS - THE CLONE WARS,http://gobr.ml:8080/Eduardo/1234/65412
+ext,TOM & JERRY 24 HRS,http://gobr.ml:8080/Eduardo/1234/10365
+ext,TIMAO & PUMBA 24 HRS,http://gobr.ml:8080/Eduardo/1234/10380
+ext,TRES ESPIAS DEMAIS 24HRS,http://gobr.ml:8080/Eduardo/1234/33844
+ext,TODO MUNDO ODEIA O CRIS 24 HRS,http://gobr.ml:8080/Eduardo/1234/33851
+ext,THUNDERCATS 24 HRS,http://gobr.ml:8080/Eduardo/1234/33892
+ext,TOMA LA DA CA 24HRS,http://gobr.ml:8080/Eduardo/1234/65366
+ext,TURMA DA MONICA 24HRS,http://gobr.ml:8080/Eduardo/1234/65404
+ext,TELETUBBIES 24HRS,http://gobr.ml:8080/Eduardo/1234/65418
+ext,TICO E TECO: DEFENSORES DA LEI 24HRS,http://gobr.ml:8080/Eduardo/1234/65434
+ext,TUTUBARAO 24HRS,http://gobr.ml:8080/Eduardo/1234/65467
+ext,TRANSFORMERS 24HRS,http://gobr.ml:8080/Eduardo/1234/65470
+ext,UMA FAMILIA DA PESADA 24HRS,http://gobr.ml:8080/Eduardo/1234/65367
+ext,VINGADORES 24 HRS,http://gobr.ml:8080/Eduardo/1234/33848
+ext,[SERIE]VAI QUE COLA 24HRS,http://gobr.ml:8080/Eduardo/1234/65339
+ext,YU-GI-OH 24 HRS,http://gobr.ml:8080/Eduardo/1234/33845
+ext,X-MEN 24 HRS,http://gobr.ml:8080/Eduardo/1234/33846
+ext,XENA 24 HRS,http://gobr.ml:8080/Eduardo/1234/33847
+ext,[ESPECIAIS] FAMILIA 24HRS,http://gobr.ml:8080/Eduardo/1234/65358
+ext,[ESPECIAIS FILMES]  RELIGIOSOS,http://gobr.ml:8080/Eduardo/1234/65462
+ext,[ESPECIAL] KIDS,http://gobr.ml:8080/Eduardo/1234/65443
+ext,[ESPECIAIS FILMES] PREMIUM,http://gobr.ml:8080/Eduardo/1234/65333
+ext,[ESPECIAIS]TERROR,http://gobr.ml:8080/Eduardo/1234/65448
+ext,[CLIPES] METALLICA,http://gobr.ml:8080/Eduardo/1234/65465
+ext,[CLIPES] QUEEN,http://gobr.ml:8080/Eduardo/1234/65466
+ext,[CLIPES] IRON MAIDEN,http://gobr.ml:8080/Eduardo/1234/65468
+ext,[CLIPES] MELHORES DO HIP HOP,http://gobr.ml:8080/Eduardo/1234/65446
+ext,[CLIPES] COLDPLAY,http://gobr.ml:8080/Eduardo/1234/65473
+ext,[SHOW] MILIONARIO E MARCIANO - LENDAS,http://gobr.ml:8080/Eduardo/1234/65475
+ext,[SHOW] FERNANDO E SOROCABA: O CHAMADO DA FLORESTA,http://gobr.ml:8080/Eduardo/1234/65334
+ext,[SHOW] WESLEY SAFADAO: MAIS UMA VEZ,http://gobr.ml:8080/Eduardo/1234/65421
+ext,[SHOW] ZE NETO E CRISTIANO: ESQUECE O MUNDO LA FORA,http://gobr.ml:8080/Eduardo/1234/65422
+ext,[SHOW] FELIPE ARAUJO: POR INTEIRO,http://gobr.ml:8080/Eduardo/1234/65423
+ext,[SHOW] MARILIA MENDONCA: TODOS OS CANTOS,http://gobr.ml:8080/Eduardo/1234/65424
+ext,[SHOW] MATHEUS & KAUAN: TEM MODA PRA TUDO,http://gobr.ml:8080/Eduardo/1234/65425
+ext,[SHOW] GUSTTAVO LIMA: O EMBAIXADOR,http://gobr.ml:8080/Eduardo/1234/65435
+ext,[SHOW] JORGE & MATEUS - TERRA SEM CEP,http://gobr.ml:8080/Eduardo/1234/65436
+ext,[SHOW] ROUPA NOVA,http://gobr.ml:8080/Eduardo/1234/65442
+ext,[SHOW] LEONARDO E EDUARDO COSTA - CABARE,http://gobr.ml:8080/Eduardo/1234/65447
+ext,[SHOW] LUAN SANTANA - VIVA,http://gobr.ml:8080/Eduardo/1234/65472
+ext,[SHOW] PONTO DE EQUILIBRIO - REPUBLICA DO REGGAE,http://gobr.ml:8080/Eduardo/1234/65476
+
+group,PORTUGAL
+ext,PT: OS BATANETES EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74034
+ext,PT: GATO FEDORENTO EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74035
+ext,PT: INSIDE FORMULA 1 EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74036
+ext,PT: CINEMA PORTUGAL  EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74037
+ext,PT: MAGIC FOR HUMANS EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74038
+ext,PT: SERTANEJO EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74039
+ext,PT: NETFLIX KIDS EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74040
+ext,PT: TALKING TOM CAT AND FRIENDS EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74041
+ext,PT: BACALHAU COM TODOS EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74042
+ext,PT: DISNEY  EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74043
+ext,PT: PORTUGAL TAL E QUAL EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74044
+ext,PT: BOOM EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74045
+ext,PT: SLAM EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74046
+ext,PT: TOMORROWLAND MUSIC EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74047
+TVI.pt,PT: TVI HD,http://gobr.ml:8080/Eduardo/1234/74174
+ext,PT: ROBOT MOVIES EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74048
+ext,PT: FICTION MOVIES EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74049
+ext,PT: VINGADORES ANIMAÃ‡ÃƒO exclusive,http://gobr.ml:8080/Eduardo/1234/74050
+ext,PT: FILMES ANIMAÃ‡ÃƒO FALADOS EM PORTUGUÃŠS exclusive,http://gobr.ml:8080/Eduardo/1234/74051
+ext,PT: DRAGON BALL SUPER exclusive,http://gobr.ml:8080/Eduardo/1234/74052
+ext,PT: RICK AND MORTY exclusive,http://gobr.ml:8080/Eduardo/1234/74053
+ext,PT: OS SIMPSONS exclusive,http://gobr.ml:8080/Eduardo/1234/74054
+ext,PT: PORTUGAL A RIR exclusive,http://gobr.ml:8080/Eduardo/1234/74055
+ext,PT: APANHADOS 2 exclusive,http://gobr.ml:8080/Eduardo/1234/74056
+ext,PT: APANHADOS exclusive,http://gobr.ml:8080/Eduardo/1234/74057
+ext,PT: OS MALUCOS DO RISO EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74058
+ext,PT: SÃ‰RIES 247 exclusive,http://gobr.ml:8080/Eduardo/1234/74059
+ext,PT: 247 STARWARS exclusive,http://gobr.ml:8080/Eduardo/1234/74060
+ext,PT: FILMES MUSICAIS EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74061
+ext,PT: FILMES THRILLERTERROR exclusive,http://gobr.ml:8080/Eduardo/1234/74062
+ext,PT: TOM CRUISE EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74063
+ext,PT: JACKIE CHAN ADVENTURES EXCLUSIVE,http://gobr.ml:8080/Eduardo/1234/74064
+ext,PT: SYLVESTER STALLONE exclusive,http://gobr.ml:8080/Eduardo/1234/74065
+ext,PT: FILMES DENZEL WASHINGTON exclusive,http://gobr.ml:8080/Eduardo/1234/74066
+ext,PT: FILMES COMÃ‰DIA exclusive,http://gobr.ml:8080/Eduardo/1234/74067
+ext,PT: FILMES WESTERN exclusive,http://gobr.ml:8080/Eduardo/1234/74068
+ext,PT: FILMES CLÃSSICOS exclusive,http://gobr.ml:8080/Eduardo/1234/74069
+ext,PT: FILMES ACÃ‡ÃƒO exclusive,http://gobr.ml:8080/Eduardo/1234/74070
+ext,PT: HBO PORTUGAL exclusive,http://gobr.ml:8080/Eduardo/1234/74071
+ext,PT: NETFLIX exclusive,http://gobr.ml:8080/Eduardo/1234/74072
+ext,PT: DC TV exclusive,http://gobr.ml:8080/Eduardo/1234/74073
+ext,PT: MARVEL II  exclusive,http://gobr.ml:8080/Eduardo/1234/74074
+ext,PT: MARVEL exclusive,http://gobr.ml:8080/Eduardo/1234/74075
+ABolaTV.pt,PT: A BOLA TV,http://gobr.ml:8080/Eduardo/1234/74076
+ext,PT: BTV SD,http://gobr.ml:8080/Eduardo/1234/74077
+ext,PT: BTV HD,http://gobr.ml:8080/Eduardo/1234/74078
+ext,PT: BTV FHD,http://gobr.ml:8080/Eduardo/1234/74079
+ext,PT: BTV 1 FHD extra,http://gobr.ml:8080/Eduardo/1234/74080
+SportTVplus.pt,PT: SPORT TV,http://gobr.ml:8080/Eduardo/1234/74081
+SportTVplus.pt,PT: SPORT TV FHD,http://gobr.ml:8080/Eduardo/1234/74082
+sporttv1.pt,PT: SPORT TV 1 SD,http://gobr.ml:8080/Eduardo/1234/74083
+sporttv1.pt,PT: SPORT TV 1 HD,http://gobr.ml:8080/Eduardo/1234/74084
+sporttv2.pt,PT: SPORT TV 2 SD,http://gobr.ml:8080/Eduardo/1234/74085
+sporttv2.pt,PT: SPORT TV 2 FHD,http://gobr.ml:8080/Eduardo/1234/74086
+sporttv3.pt,PT: SPORT TV 3 SD,http://gobr.ml:8080/Eduardo/1234/74087
+sporttv3.pt,PT: SPORT TV 3 FHD,http://gobr.ml:8080/Eduardo/1234/74088
+sporttv4.pt,PT: SPORT TV 4 SD,http://gobr.ml:8080/Eduardo/1234/74089
+sporttv5.pt,PT: SPORT TV 5 SD,http://gobr.ml:8080/Eduardo/1234/74090
+ext,PT: ELEVEN SPORTS 1 SD,http://gobr.ml:8080/Eduardo/1234/74091
+ext,PT: ELEVEN SPORTS 2 SD,http://gobr.ml:8080/Eduardo/1234/74092
+ext,PT: ELEVEN SPORTS 3 SD,http://gobr.ml:8080/Eduardo/1234/74093
+ext,PT: ELEVEN SPORTS 4 SD,http://gobr.ml:8080/Eduardo/1234/74094
+ext,PT: ELEVEN SPORTS 5 SD,http://gobr.ml:8080/Eduardo/1234/74095
+ext,PT: ELEVEN SPORTS 6 SD,http://gobr.ml:8080/Eduardo/1234/74096
+ext,PT: ELEVEN SPORTS 6 HD,http://gobr.ml:8080/Eduardo/1234/74097
+ext,PT: SPORT TV NBA,http://gobr.ml:8080/Eduardo/1234/74098
+Eurosport1.pt,PT: EUROSPORT 1 HD,http://gobr.ml:8080/Eduardo/1234/74099
+Eurosport2.pt,PT: EUROSPORT 2,http://gobr.ml:8080/Eduardo/1234/74100
+Eurosport2Extra.pt,PT: EUROSPORT 2 extra,http://gobr.ml:8080/Eduardo/1234/74101
+Motorvision.pt,PT: MOTORVISION,http://gobr.ml:8080/Eduardo/1234/74102
+RTP3.pt,PT: RTP 3,http://gobr.ml:8080/Eduardo/1234/74103
+PortoCanal.pt,PT: PORTO CANAL,http://gobr.ml:8080/Eduardo/1234/74104
+ext,PT Porto Canal FHD,http://gobr.ml:8080/Eduardo/1234/74105
+ext,PT: REDBULL TV HD,http://gobr.ml:8080/Eduardo/1234/74106
+ext,PT: TV RECORD LOW,http://gobr.ml:8080/Eduardo/1234/74107
+ext,PT Food Network,http://gobr.ml:8080/Eduardo/1234/74108
+ext,PT: THE FOOD NETWORK LOW,http://gobr.ml:8080/Eduardo/1234/74109
+AfroMusic.pt,PT: AFRO MUSIC,http://gobr.ml:8080/Eduardo/1234/74110
+TraceTVUrban.pt,PT: TRACE URBAN,http://gobr.ml:8080/Eduardo/1234/74111
+mezzo.pt,PT: MEZZO,http://gobr.ml:8080/Eduardo/1234/74112
+vh1.pt,PT: VH1,http://gobr.ml:8080/Eduardo/1234/74113
+mtvportugal.pt,PT: MTV PORTUGAL,http://gobr.ml:8080/Eduardo/1234/74114
+MCMPop.pt,PT: MCM POP,http://gobr.ml:8080/Eduardo/1234/74115
+ext,PT: MY CUISINE,http://gobr.ml:8080/Eduardo/1234/74116
+ext,PT: E ENTERTAINEMENT,http://gobr.ml:8080/Eduardo/1234/74117
+ext,PT E Entertainement FHD,http://gobr.ml:8080/Eduardo/1234/74118
+TVE24h.pt,PT: TVE INTERNACIONAL,http://gobr.ml:8080/Eduardo/1234/74119
+ext,PT Food Network HD,http://gobr.ml:8080/Eduardo/1234/74120
+ext,PT Food Network,http://gobr.ml:8080/Eduardo/1234/74121
+TVGlobo.pt,PT: GLOBO,http://gobr.ml:8080/Eduardo/1234/74122
+tvrecord.pt,PT: TV RECORD,http://gobr.ml:8080/Eduardo/1234/74123
+CacaVision.pt,PT: CACAVISION,http://gobr.ml:8080/Eduardo/1234/74124
+HistoryChannel.pt,PT: HISTORIA,http://gobr.ml:8080/Eduardo/1234/74125
+discoverychannel.pt,PT: DISCOVERY CHANNEL,http://gobr.ml:8080/Eduardo/1234/74126
+NickJr.pt,PT: NICK JR,http://gobr.ml:8080/Eduardo/1234/74127
+Nickelodeon.pt,PT: NICKELODEON,http://gobr.ml:8080/Eduardo/1234/74128
+BabyTV.pt,PT: BABY TV,http://gobr.ml:8080/Eduardo/1234/74129
+canalpanda.pt,PT: CANAL PANDA,http://gobr.ml:8080/Eduardo/1234/74130
+ext,PT: BLAZE TV,http://gobr.ml:8080/Eduardo/1234/74131
+24Kitchen.pt,PT: 24 KITCHEN HD,http://gobr.ml:8080/Eduardo/1234/74132
+AXNWhite.pt,PT: AXN WHITE HD,http://gobr.ml:8080/Eduardo/1234/74133
+axn.pt,PT: AXN HD,http://gobr.ml:8080/Eduardo/1234/74134
+FOXComedy.pt,PT: FOX COMEDY HD,http://gobr.ml:8080/Eduardo/1234/74135
+foxcrime.pt,PT: FOX CRIME,http://gobr.ml:8080/Eduardo/1234/74136
+foxlife.pt,PT: FOX LIFE HD,http://gobr.ml:8080/Eduardo/1234/74137
+FoxMovies.pt,PT: FOX MOVIES HD,http://gobr.ml:8080/Eduardo/1234/74138
+hollywood.pt,PT: HOLLYWOOD FHD,http://gobr.ml:8080/Eduardo/1234/74139
+ext,PT: TV CINE ACTION HD,http://gobr.ml:8080/Eduardo/1234/74140
+ext,PT: TV CINE EMOTION HD,http://gobr.ml:8080/Eduardo/1234/74141
+ext,PT: TV CINE EDITION HD,http://gobr.ml:8080/Eduardo/1234/74142
+ext,PT: TV CINE TOP HD,http://gobr.ml:8080/Eduardo/1234/74143
+ext,PT: SPORT TV NBA,http://gobr.ml:8080/Eduardo/1234/74144
+KombatSport.pt,PT: KOMBAT SPORT,http://gobr.ml:8080/Eduardo/1234/74145
+ext,PT: CANAL 11 HD,http://gobr.ml:8080/Eduardo/1234/74146
+ext,PT: CANAL 11,http://gobr.ml:8080/Eduardo/1234/74147
+ext,PT: Canal 11 LOW,http://gobr.ml:8080/Eduardo/1234/74148
+pfc.pt,PT: PFC,http://gobr.ml:8080/Eduardo/1234/74149
+SPORTINGTV.pt,PT: SPORTING TV,http://gobr.ml:8080/Eduardo/1234/74150
+ext,PT: ELEVEN SPORTS 6 HD,http://gobr.ml:8080/Eduardo/1234/74151
+ext,PT: ELEVEN SPORTS 5 HD,http://gobr.ml:8080/Eduardo/1234/74152
+ext,PT: ELEVEN SPORTS 4 FHD,http://gobr.ml:8080/Eduardo/1234/74153
+ext,PT: ELEVEN SPORTS 4 HD,http://gobr.ml:8080/Eduardo/1234/74154
+ext,PT: ELEVEN SPORTS 3 FHD,http://gobr.ml:8080/Eduardo/1234/74155
+ext,PT: ELEVEN SPORTS 3 HD,http://gobr.ml:8080/Eduardo/1234/74156
+ext,PT: ELEVEN SPORTS 2 FHD,http://gobr.ml:8080/Eduardo/1234/74157
+ext,PT: ELEVEN SPORTS 2 HD,http://gobr.ml:8080/Eduardo/1234/74158
+ext,PT: ELEVEN SPORTS 1 FHD,http://gobr.ml:8080/Eduardo/1234/74159
+ext,PT: ELEVEN SPORTS 1 HD,http://gobr.ml:8080/Eduardo/1234/74160
+sporttv5.pt,PT: SPORT TV 5 HD,http://gobr.ml:8080/Eduardo/1234/74161
+sporttv4.pt,PT: SPORT TV 4 HD,http://gobr.ml:8080/Eduardo/1234/74162
+CMTV.pt,PT: CMTV,http://gobr.ml:8080/Eduardo/1234/74163
+TVI24.pt,PT: TVI 24,http://gobr.ml:8080/Eduardo/1234/74164
+sicnoticias.pt,PT: SIC NOTICIAS FHD,http://gobr.ml:8080/Eduardo/1234/74165
+sicnoticias.pt,PT: SIC NOTICIAS,http://gobr.ml:8080/Eduardo/1234/74166
+rtpmemoria.pt,PT: RTP MEMORIA,http://gobr.ml:8080/Eduardo/1234/74167
+ext,PT: RTP MEMORIA LOW,http://gobr.ml:8080/Eduardo/1234/74168
+RTPAcores.pt,PT: RTP ACORES,http://gobr.ml:8080/Eduardo/1234/74169
+RTPMadeira.pt,PT: RTP MADEIRA,http://gobr.ml:8080/Eduardo/1234/74170
+RTPAfrica.pt,PT: RTP AFRICA,http://gobr.ml:8080/Eduardo/1234/74171
+sicmulher.pt,PT: SIC MULHER FHD,http://gobr.ml:8080/Eduardo/1234/74172
+sic.pt,PT: SIC FHD,http://gobr.ml:8080/Eduardo/1234/74173
+ext,PT: TVI Reality - Camara 4,http://gobr.ml:8080/Eduardo/1234/74175
+ext,PT: TVI Reality - Camara 3,http://gobr.ml:8080/Eduardo/1234/74176
+ext,PT: TVI Reality - Camara 2,http://gobr.ml:8080/Eduardo/1234/74177
+ext,PT: TVI Reality - Camara 1,http://gobr.ml:8080/Eduardo/1234/74178
+ext,PT: TVI Reality - Mosaico,http://gobr.ml:8080/Eduardo/1234/74179
+ext,PT: HBO,http://gobr.ml:8080/Eduardo/1234/74180
+TVGalicia.pt,PT: TV GALICIA,http://gobr.ml:8080/Eduardo/1234/74181
+ext,PT: FASHION TV HD,http://gobr.ml:8080/Eduardo/1234/74182
+rtp1.pt,PT: RTP 1,http://gobr.ml:8080/Eduardo/1234/74183
+rtp1.pt,PT: RTP 1 FHD,http://gobr.ml:8080/Eduardo/1234/74184
+rtp2.pt,PT: RTP 2,http://gobr.ml:8080/Eduardo/1234/74185
+rtp2.pt,PT: RTP 2 FHD,http://gobr.ml:8080/Eduardo/1234/74186
+sic.pt,PT: SIC,http://gobr.ml:8080/Eduardo/1234/74187
+TVI.pt,PT: TVI,http://gobr.ml:8080/Eduardo/1234/74188
+CMTV.pt,PT: CMTV FHD,http://gobr.ml:8080/Eduardo/1234/74189
+sicmulher.pt,PT: SIC MULHER,http://gobr.ml:8080/Eduardo/1234/74190
+CanalQ.pt,PT: CANAL Q,http://gobr.ml:8080/Eduardo/1234/74191
+ext,PT: TV CINE TOP,http://gobr.ml:8080/Eduardo/1234/74192
+ext,PT: TV CINE EDITION,http://gobr.ml:8080/Eduardo/1234/74193
+ext,PT: TV CINE EMOTION,http://gobr.ml:8080/Eduardo/1234/74194
+ext,PT: TV CINE ACTION,http://gobr.ml:8080/Eduardo/1234/74195
+hollywood.pt,PT: HOLLYWOOD,http://gobr.ml:8080/Eduardo/1234/74196
+FoxMovies.pt,PT: FOX MOVIES,http://gobr.ml:8080/Eduardo/1234/74197
+ext,PT: FOX MOVIES extra,http://gobr.ml:8080/Eduardo/1234/74198
+Cinemundo.pt,PT: CINEMUNDO,http://gobr.ml:8080/Eduardo/1234/74199
+Cinemundo.pt,PT: CINEMUNDO HD,http://gobr.ml:8080/Eduardo/1234/74200
+ext,PT: NOS STUDIOS HD,http://gobr.ml:8080/Eduardo/1234/74201
+EuroChannel.pt,PT: EUROCHANNEL,http://gobr.ml:8080/Eduardo/1234/74202
+foxlife.pt,PT: FOX LIFE,http://gobr.ml:8080/Eduardo/1234/74203
+fox.pt,PT: FOX HD,http://gobr.ml:8080/Eduardo/1234/74204
+ext,PT: FOX CRIME HD extra,http://gobr.ml:8080/Eduardo/1234/74205
+FOXComedy.pt,PT: FOX COMEDY,http://gobr.ml:8080/Eduardo/1234/74206
+SyFy.pt,PT: SYFY,http://gobr.ml:8080/Eduardo/1234/74207
+SyFy.pt,PT: SYFY HD,http://gobr.ml:8080/Eduardo/1234/74208
+axn.pt,PT: AXN,http://gobr.ml:8080/Eduardo/1234/74209
+AXNWhite.pt,PT: AXN WHITE,http://gobr.ml:8080/Eduardo/1234/74210
+ext,PT: AXN MOVIES,http://gobr.ml:8080/Eduardo/1234/74211
+
+group,USA
+ext,USA-REG: NBC Buffalo,http://gobr.ml:8080/Eduardo/1234/74633
+ext,USA-REG: NBC Charlotte,http://gobr.ml:8080/Eduardo/1234/74632
+ext,USA-REG: NBC Chicago,http://gobr.ml:8080/Eduardo/1234/74631
+ext,USA-REG: NBC Cincinnati,http://gobr.ml:8080/Eduardo/1234/74630
+ext,USA-REG: NBC Cleveland,http://gobr.ml:8080/Eduardo/1234/74629
+ext,USA-REG: NBC Dallas,http://gobr.ml:8080/Eduardo/1234/74628
+ext,USA-REG: NBC Detroit,http://gobr.ml:8080/Eduardo/1234/74627
+ext,USA-REG: NBC Green Bay,http://gobr.ml:8080/Eduardo/1234/74626
+ext,USA-REG: NBC Hartford,http://gobr.ml:8080/Eduardo/1234/74625
+ext,USA-REG: NBC Indianapolis,http://gobr.ml:8080/Eduardo/1234/74624
+ext,USA-REG: NBC Jacksonville,http://gobr.ml:8080/Eduardo/1234/74623
+ext,USA-REG: NBC Kansas City,http://gobr.ml:8080/Eduardo/1234/74622
+ext,USA-REG: NBC Los Angeles,http://gobr.ml:8080/Eduardo/1234/74621
+ext,USA-REG:  NBC Houston,http://gobr.ml:8080/Eduardo/1234/74620
+ext,USA-REG: NBC Miami,http://gobr.ml:8080/Eduardo/1234/74619
+ext,USA-REG: NBC Milwaukee,http://gobr.ml:8080/Eduardo/1234/74618
+ext,USA-REG: NBC Minneapolis,http://gobr.ml:8080/Eduardo/1234/74617
+ext,USA-REG: NBC Nashville,http://gobr.ml:8080/Eduardo/1234/74616
+ext,USA-REG: NBC New Orleans,http://gobr.ml:8080/Eduardo/1234/74615
+ext,USA-REG: NBC New York,http://gobr.ml:8080/Eduardo/1234/74614
+ext,USA-REG: FXM,http://gobr.ml:8080/Eduardo/1234/74613
+ext,USA-REG: FXX,http://gobr.ml:8080/Eduardo/1234/74612
+ext,USA-REG: FOX Deportes,http://gobr.ml:8080/Eduardo/1234/74611
+ext,USA-REG: Gnix Sports TV,http://gobr.ml:8080/Eduardo/1234/74610
+ext,USA-REG: Natgeo Pacific,http://gobr.ml:8080/Eduardo/1234/74609
+ext,USA-REG: Discovery Family,http://gobr.ml:8080/Eduardo/1234/74608
+ext,USA-REG: Discovery Channel,http://gobr.ml:8080/Eduardo/1234/74607
+ext,USA-REG: HGTV HD,http://gobr.ml:8080/Eduardo/1234/74606
+ext,USA-REG: Showtime HD,http://gobr.ml:8080/Eduardo/1234/74605
+ext,USA-REG:  Showtime 2 HD,http://gobr.ml:8080/Eduardo/1234/74604
+ext,USA-REG: Showtime Extreme FHD,http://gobr.ml:8080/Eduardo/1234/74603
+ext,USA-REG: Showtime Showcase FHD,http://gobr.ml:8080/Eduardo/1234/74602
+ext,USA-REG: Showtime Beyond HD,http://gobr.ml:8080/Eduardo/1234/74601
+ext,USA-REG:  Starz Cinema FHD,http://gobr.ml:8080/Eduardo/1234/74600
+ext,USA-REG: Starz Encore Family FHD,http://gobr.ml:8080/Eduardo/1234/74599
+ext,USA-REG: Starz Comedy FHD,http://gobr.ml:8080/Eduardo/1234/74598
+ext,USA-REG: Starz Black FHD,http://gobr.ml:8080/Eduardo/1234/74597
+ext,USA-REG: Starz Edge FHD,http://gobr.ml:8080/Eduardo/1234/74596
+ext,USA-REG: Starz Edge West FHD,http://gobr.ml:8080/Eduardo/1234/74595
+ext,USA-REG: Starz East HD,http://gobr.ml:8080/Eduardo/1234/74594
+ext,USA-REG: Starz Encore HD,http://gobr.ml:8080/Eduardo/1234/74593
+ext,USA-REG: Starz Encore Westerns FHD,http://gobr.ml:8080/Eduardo/1234/74592
+ext,USA-REG: Starz Kids  Family FHD,http://gobr.ml:8080/Eduardo/1234/74591
+ext,USA-REG: Starz West HD,http://gobr.ml:8080/Eduardo/1234/74590
+ext,USA-REG: Bet her,http://gobr.ml:8080/Eduardo/1234/74589
+ext,USA-REG: Lifetime,http://gobr.ml:8080/Eduardo/1234/74588
+ext,USA-REG: Lifetime Movies Network,http://gobr.ml:8080/Eduardo/1234/74587
+ext,USA-REG: ESPN Bases Loaded,http://gobr.ml:8080/Eduardo/1234/74586
+ext,USA-REG: Entertainment,http://gobr.ml:8080/Eduardo/1234/74585
+ext,USA-REG: Epix Hits,http://gobr.ml:8080/Eduardo/1234/74584
+ext,USA-REG: FOX Columbus,http://gobr.ml:8080/Eduardo/1234/74583
+ext,USA-REG: FOX Dallas,http://gobr.ml:8080/Eduardo/1234/74582
+ext,USA-REG: FOX Cleveland,http://gobr.ml:8080/Eduardo/1234/74581
+ext,USA-REG: FOX Chicago,http://gobr.ml:8080/Eduardo/1234/74580
+ext,USA-REG: FOX Buffalo,http://gobr.ml:8080/Eduardo/1234/74579
+ext,USA-REG: FOX Boston,http://gobr.ml:8080/Eduardo/1234/74578
+ext,USA-REG: FOX Belmont,http://gobr.ml:8080/Eduardo/1234/74577
+ext,USA-REG: FOX Baltimore,http://gobr.ml:8080/Eduardo/1234/74576
+ext,USA-REG: FOX Austin,http://gobr.ml:8080/Eduardo/1234/74575
+ext,USA-REG: FOX Atlanta,http://gobr.ml:8080/Eduardo/1234/74574
+ext,USA-REG: KTVU Plus,http://gobr.ml:8080/Eduardo/1234/74573
+ext,USA-REG: CBS Washington,http://gobr.ml:8080/Eduardo/1234/74572
+ext,USA-REG: CBS Seattle,http://gobr.ml:8080/Eduardo/1234/74571
+ext,USA-REG: CBS San Francisco,http://gobr.ml:8080/Eduardo/1234/74570
+ext,USA-REG: CBS St Louis,http://gobr.ml:8080/Eduardo/1234/74569
+ext,USA-REG: CBS San Antonio,http://gobr.ml:8080/Eduardo/1234/74568
+ext,USA-REG: CBS Sacramento,http://gobr.ml:8080/Eduardo/1234/74567
+ext,USA-REG: CBS San Diego,http://gobr.ml:8080/Eduardo/1234/74566
+ext,USA-REG: CBS Tampas,http://gobr.ml:8080/Eduardo/1234/74565
+ext,USA-REG: CBS Pittsburgh,http://gobr.ml:8080/Eduardo/1234/74564
+ext,USA-REG: CBS Phoenix,http://gobr.ml:8080/Eduardo/1234/74563
+ext,USA-REG: CBS Philadelphia,http://gobr.ml:8080/Eduardo/1234/74562
+ext,USA-REG: CBS New Orleans,http://gobr.ml:8080/Eduardo/1234/74561
+ext,USA-REG: CBS Nashville,http://gobr.ml:8080/Eduardo/1234/74560
+ext,USA-REG: CBS Milwaukee,http://gobr.ml:8080/Eduardo/1234/74559
+ext,USA-REG: CBS Miami,http://gobr.ml:8080/Eduardo/1234/74558
+ext,USA-REG: CBS Orlando,http://gobr.ml:8080/Eduardo/1234/74557
+ext,USA-REG: CBS Minneapolis,http://gobr.ml:8080/Eduardo/1234/74556
+ext,USA-REG: CBS Los Angeles,http://gobr.ml:8080/Eduardo/1234/74555
+ext,USA-REG: CBS Kansas City,http://gobr.ml:8080/Eduardo/1234/74554
+ext,USA-REG: CBS Houston,http://gobr.ml:8080/Eduardo/1234/74553
+ext,USA-REG: CBS Hartford,http://gobr.ml:8080/Eduardo/1234/74552
+ext,USA-REG: CBS Greensboro,http://gobr.ml:8080/Eduardo/1234/74551
+ext,USA-REG: CBS Denver,http://gobr.ml:8080/Eduardo/1234/74550
+ext,USA-REG: CBS Jacksonville,http://gobr.ml:8080/Eduardo/1234/74549
+ext,USA-REG: CBS Detroit,http://gobr.ml:8080/Eduardo/1234/74548
+ext,USA-REG: CBS Dallas,http://gobr.ml:8080/Eduardo/1234/74547
+ext,USA-REG: CBS Columbus,http://gobr.ml:8080/Eduardo/1234/74546
+ext,USA-REG: CBS Cleveland,http://gobr.ml:8080/Eduardo/1234/74545
+ext,USA-REG: CBS Boston,http://gobr.ml:8080/Eduardo/1234/74544
+ext,USA-REG: CBS Charlotte,http://gobr.ml:8080/Eduardo/1234/74543
+ext,USA-REG: CBS Baltimore,http://gobr.ml:8080/Eduardo/1234/74542
+ext,USA-REG: Cartoon Network Pacific,http://gobr.ml:8080/Eduardo/1234/74541
+ext,USA-REG: HBO,http://gobr.ml:8080/Eduardo/1234/74540
+ext,USA-REG: CBS Chicago,http://gobr.ml:8080/Eduardo/1234/74539
+ext,USA-REG: Fox Bussines Network,http://gobr.ml:8080/Eduardo/1234/74538
+ext,USA-REG: Disney XD Pacific,http://gobr.ml:8080/Eduardo/1234/74537
+ext,USA-REG: Disney XD,http://gobr.ml:8080/Eduardo/1234/74536
+ext,USA-REG: Fox News Channel,http://gobr.ml:8080/Eduardo/1234/74535
+ext,USA-REG: ABC Milwaukee,http://gobr.ml:8080/Eduardo/1234/74534
+ext,USA-REG: ABC Kansas City,http://gobr.ml:8080/Eduardo/1234/74533
+ext,USA-REG: ABC San Antonio,http://gobr.ml:8080/Eduardo/1234/74532
+ext,USA-REG: ABC Salt lake city,http://gobr.ml:8080/Eduardo/1234/74531
+ext,USA-REG: ABC St Louis,http://gobr.ml:8080/Eduardo/1234/74530
+ext,USA-REG: ABC Saint Paul,http://gobr.ml:8080/Eduardo/1234/74529
+ext,USA-REG: ABC Tampa Bay,http://gobr.ml:8080/Eduardo/1234/74528
+ext,USA-REG: ABC Baltimore,http://gobr.ml:8080/Eduardo/1234/74527
+ext,USA-REG: ABC Phoenix,http://gobr.ml:8080/Eduardo/1234/74526
+ext,USA-REG: ABC Indianapolis,http://gobr.ml:8080/Eduardo/1234/74525
+ext,USA-REG: ABC Cleveland,http://gobr.ml:8080/Eduardo/1234/74524
+ext,USA-REG: ABC Sacramento,http://gobr.ml:8080/Eduardo/1234/74523
+ext,USA-REG: ABC Charlotte,http://gobr.ml:8080/Eduardo/1234/74522
+ext,USA-REG: ABC Orlando,http://gobr.ml:8080/Eduardo/1234/74521
+ext,USA-REG: ABC Nashville,http://gobr.ml:8080/Eduardo/1234/74520
+ext,USA-REG: ABC San Diego,http://gobr.ml:8080/Eduardo/1234/74519
+ext,USA-REG: ABC Denver,http://gobr.ml:8080/Eduardo/1234/74518
+ext,USA-REG: ABC Portland,http://gobr.ml:8080/Eduardo/1234/74517
+ext,USA-REG: ABC Miami,http://gobr.ml:8080/Eduardo/1234/74516
+ext,USA-REG: ABC Seattle,http://gobr.ml:8080/Eduardo/1234/74515
+ext,USA-REG: ABC Dallas,http://gobr.ml:8080/Eduardo/1234/74514
+ext,USA-REG: ABC Pittsburgh,http://gobr.ml:8080/Eduardo/1234/74513
+ext,USA-REG: ABC Detroit,http://gobr.ml:8080/Eduardo/1234/74512
+ext,USA-REG: ABC Boston,http://gobr.ml:8080/Eduardo/1234/74511
+ext,USA-REG: ABC Atlanta,http://gobr.ml:8080/Eduardo/1234/74510
+ext,USA-REG: ABC Washington,http://gobr.ml:8080/Eduardo/1234/74509
+ext,USA-REG: ABC Connecticut,http://gobr.ml:8080/Eduardo/1234/74508
+ext,USA-REG: ABC Fresno,http://gobr.ml:8080/Eduardo/1234/74507
+ext,USA-REG: ABC houston,http://gobr.ml:8080/Eduardo/1234/74506
+ext,USA-REG: ABC durham,http://gobr.ml:8080/Eduardo/1234/74505
+ext,USA-REG: ABC Chicago,http://gobr.ml:8080/Eduardo/1234/74504
+ext,USA-REG: ABC New York,http://gobr.ml:8080/Eduardo/1234/74503
+ext,USA-REG: ABC San Francisco,http://gobr.ml:8080/Eduardo/1234/74502
+ext,USA-REG: ABC Philadelphia,http://gobr.ml:8080/Eduardo/1234/74501
+ext,USA-REG: NBC Washington,http://gobr.ml:8080/Eduardo/1234/74500
+ext,USA-REG: NBC St Louis,http://gobr.ml:8080/Eduardo/1234/74499
+ext,USA-REG: NBC Seattle,http://gobr.ml:8080/Eduardo/1234/74498
+ext,USA-REG: NBC San Francisco,http://gobr.ml:8080/Eduardo/1234/74497
+ext,USA-REG: NBC San Diego,http://gobr.ml:8080/Eduardo/1234/74496
+ext,USA-REG: ABC Los Angeles,http://gobr.ml:8080/Eduardo/1234/74495
+ext,USA-REG: NBC Sacramento,http://gobr.ml:8080/Eduardo/1234/74494
+ext,USA-REG: NBC Raleigh,http://gobr.ml:8080/Eduardo/1234/74493
+ext,USA-REG: NBC Portland,http://gobr.ml:8080/Eduardo/1234/74492
+ext,USA-REG: NBC Pittsburgh,http://gobr.ml:8080/Eduardo/1234/74491
+ext,USA-REG: NBC Philadelphia,http://gobr.ml:8080/Eduardo/1234/74490
+ext,USA-REG: NBC Orlando,http://gobr.ml:8080/Eduardo/1234/74489
+ext,USA-REG: Fusion,http://gobr.ml:8080/Eduardo/1234/74488
+ext,USA-REG: FX,http://gobr.ml:8080/Eduardo/1234/74487
+ext,USA-REG: FOX Denver,http://gobr.ml:8080/Eduardo/1234/74486
+ext,USA-REG: FOX Detroit,http://gobr.ml:8080/Eduardo/1234/74485
+ext,USA-REG: FOX Hartford,http://gobr.ml:8080/Eduardo/1234/74484
+ext,USA-REG: FOX Houston,http://gobr.ml:8080/Eduardo/1234/74483
+ext,USA-REG: FOX Indianapolis,http://gobr.ml:8080/Eduardo/1234/74482
+ext,USA-REG: FOX Jacksonville,http://gobr.ml:8080/Eduardo/1234/74481
+ext,USA-REG: FOX Kansas City,http://gobr.ml:8080/Eduardo/1234/74480
+ext,USA-REG: FOX Los Angeles,http://gobr.ml:8080/Eduardo/1234/74479
+ext,USA-REG: FOX Miami,http://gobr.ml:8080/Eduardo/1234/74478
+ext,USA-REG: FOX Milwaukee,http://gobr.ml:8080/Eduardo/1234/74477
+ext,USA-REG: FOX Nashville,http://gobr.ml:8080/Eduardo/1234/74476
+ext,USA-REG: FOX New Orleans,http://gobr.ml:8080/Eduardo/1234/74475
+ext,USA-REG: FOX Ocala,http://gobr.ml:8080/Eduardo/1234/74474
+ext,USA-REG: FOX Orlando,http://gobr.ml:8080/Eduardo/1234/74473
+ext,USA-REG: FOX Minneapolis,http://gobr.ml:8080/Eduardo/1234/74472
+ext,USA-REG: FOX Philadelphia,http://gobr.ml:8080/Eduardo/1234/74471
+ext,USA-REG: FOX Pittsburgh,http://gobr.ml:8080/Eduardo/1234/74470
+ext,USA-REG: FOX Sacramento,http://gobr.ml:8080/Eduardo/1234/74469
+ext,USA-REG: FOX Salt Lake City,http://gobr.ml:8080/Eduardo/1234/74468
+ext,USA-REG: FOX San Antonio,http://gobr.ml:8080/Eduardo/1234/74467
+ext,USA-REG: FOX San Diego,http://gobr.ml:8080/Eduardo/1234/74466
+ext,USA-REG: FOX San Francisco,http://gobr.ml:8080/Eduardo/1234/74465
+ext,USA-REG: FOX Seattle,http://gobr.ml:8080/Eduardo/1234/74464
+ext,USA-REG: FOX Phoenix,http://gobr.ml:8080/Eduardo/1234/74463
+ext,USA-REG: FOX St Louis,http://gobr.ml:8080/Eduardo/1234/74462
+ext,USA-REG: FOX Tampa,http://gobr.ml:8080/Eduardo/1234/74461
+ext,USA-REG: FOX Washington,http://gobr.ml:8080/Eduardo/1234/74460
+ext,USA-REG: NBC Atlanta,http://gobr.ml:8080/Eduardo/1234/74459
+ext,USA-REG: NBC Baltimore,http://gobr.ml:8080/Eduardo/1234/74458
+ext,USA-REG: NBC Boston,http://gobr.ml:8080/Eduardo/1234/74457
+ext,USA-REG: NFL Network,http://gobr.ml:8080/Eduardo/1234/74456
+ext,USA-REG: HLN HD,http://gobr.ml:8080/Eduardo/1234/74455
+ext,USA-REG: VH1,http://gobr.ml:8080/Eduardo/1234/74454
+ext,USA-REG: HSN,http://gobr.ml:8080/Eduardo/1234/74453
+ext,USA-REG: QVC,http://gobr.ml:8080/Eduardo/1234/74452
+ext,NFL 01 Vikings at 49ers 111-4:35PM ET,http://gobr.ml:8080/Eduardo/1234/74451
+ext,NFL 02  Titans at Ravens 111-8:15PM ET,http://gobr.ml:8080/Eduardo/1234/74450
+ext,NFL 03  Browns  Bengals 1pm,http://gobr.ml:8080/Eduardo/1234/74449
+ext,NFL 04  Packers  Lions 1pm,http://gobr.ml:8080/Eduardo/1234/74448
+ext,NFL 05  Chargers  Chiefs 1pm,http://gobr.ml:8080/Eduardo/1234/74447
+ext,NFL 06  Bears  Vikings 1pm,http://gobr.ml:8080/Eduardo/1234/74446
+ext,NFL 07  Dolphins  Patriots 1pm,http://gobr.ml:8080/Eduardo/1234/74445
+ext,NFL 08  Falcons  Bucs 1pm,http://gobr.ml:8080/Eduardo/1234/74444
+ext,NFL 09  Steelers  Ravens 4:25pm,http://gobr.ml:8080/Eduardo/1234/74443
+ext,NFL 10  Redskins  Cowboys 4:25pm,http://gobr.ml:8080/Eduardo/1234/74442
+ext,NFL 11  Cardinals at Seahawks 1222-4:25PM EDT,http://gobr.ml:8080/Eduardo/1234/74441
+ext,NFL 12  Chiefs at Bears 1222-8:20PM EDT,http://gobr.ml:8080/Eduardo/1234/74440
+ext,NFL 13  Falcons at 49ers 1215-4:25PM EDT,http://gobr.ml:8080/Eduardo/1234/74439
+ext,NFL 14  Bills at Steelers 1215-8:20PM EDT,http://gobr.ml:8080/Eduardo/1234/74438
+ext,US  NFL  DETROIT  LIONS,http://gobr.ml:8080/Eduardo/1234/74437
+ext,US  NFL ARIZONA CARDINALS,http://gobr.ml:8080/Eduardo/1234/74436
+ext,US  NFL ATLANTA FALCONS,http://gobr.ml:8080/Eduardo/1234/74435
+ext,US  NFL BALTIMORE RAVENS,http://gobr.ml:8080/Eduardo/1234/74434
+ext,US  NFL BUFFALO BILLS,http://gobr.ml:8080/Eduardo/1234/74433
+ext,US  NFL CAROLINA PANTHERS,http://gobr.ml:8080/Eduardo/1234/74432
+ext,US  NFL CHICAGO BEARS,http://gobr.ml:8080/Eduardo/1234/74431
+ext,US  NFL CINCINNATI BENGALS,http://gobr.ml:8080/Eduardo/1234/74430
+ext,US  NFL CLEVELAND BROWNS,http://gobr.ml:8080/Eduardo/1234/74429
+ext,US  NFL DALLAS COWBOYS,http://gobr.ml:8080/Eduardo/1234/74428
+ext,US  NFL DENVER BRONCOS,http://gobr.ml:8080/Eduardo/1234/74427
+ext,US  NFL GREEN BAY PACKERS,http://gobr.ml:8080/Eduardo/1234/74426
+ext,US  NFL HOUSTON TEXANS,http://gobr.ml:8080/Eduardo/1234/74425
+ext,US  NFL INDIANAPOLIS COLTS,http://gobr.ml:8080/Eduardo/1234/74424
+ext,US  NFL JACKSONVILLE JAGUARS,http://gobr.ml:8080/Eduardo/1234/74423
+ext,US  NFL KANSAS CITY CHIEFS,http://gobr.ml:8080/Eduardo/1234/74422
+ext,US  NFL LOS ANGELES CHARGERS,http://gobr.ml:8080/Eduardo/1234/74421
+ext,US  NFL LOS ANGELES RAMS,http://gobr.ml:8080/Eduardo/1234/74420
+ext,US  NFL MIAMI DOLPHINS,http://gobr.ml:8080/Eduardo/1234/74419
+ext,US  NFL MINNESOTA VIKINGS,http://gobr.ml:8080/Eduardo/1234/74418
+ext,US  NFL NEW ENGLAND PATRIOTS,http://gobr.ml:8080/Eduardo/1234/74417
+ext,US  NFL NEW ORLEANS SAINTS,http://gobr.ml:8080/Eduardo/1234/74416
+ext,US  NFL NEW YORK GIANTS,http://gobr.ml:8080/Eduardo/1234/74415
+ext,US  NFL NEW YORK JETS,http://gobr.ml:8080/Eduardo/1234/74414
+ext,US  NFL OAKLAND RAIDERS,http://gobr.ml:8080/Eduardo/1234/74413
+ext,US  NFL PHILADELPHIA EAGLES,http://gobr.ml:8080/Eduardo/1234/74412
+ext,US  NFL PITTSBURGH STEELERS,http://gobr.ml:8080/Eduardo/1234/74411
+ext,US  NFL SAN FRANCISCO 49ERS,http://gobr.ml:8080/Eduardo/1234/74410
+ext,US  NFL SEATTLE SEAHAWKS,http://gobr.ml:8080/Eduardo/1234/74409
+ext,US  NFL TAMPA BAY BUCCANEERS,http://gobr.ml:8080/Eduardo/1234/74408
+ext,US  NFL TENNESSEE TITANS,http://gobr.ml:8080/Eduardo/1234/74407
+ext,US  NFL WASHINGTON REDSKINS,http://gobr.ml:8080/Eduardo/1234/74406
+ext,NFL GAME 16: 49ers at Seahawks 1229-8:20PM EDT,http://gobr.ml:8080/Eduardo/1234/74405
+ext,NHL GAME 1: Winnipeg Jets at St Louis Blues 1229-3PM ET,http://gobr.ml:8080/Eduardo/1234/74404
+ext,NHL 00  NHL NETWORK HD,http://gobr.ml:8080/Eduardo/1234/74403
+ext,NHL GAME 1: Nashville Predators at Winnipeg Jets 0112-2PM ET,http://gobr.ml:8080/Eduardo/1234/74402
+ext,NHL GAME 2: Vancouver Canucks at Minnesota Wild 0112-4PM ET,http://gobr.ml:8080/Eduardo/1234/74401
+ext,NHL GAME 3: Buffalo Sabres at Detroit Red Wings 0112-5PM ET,http://gobr.ml:8080/Eduardo/1234/74400
+ext,NHL GAME 4: Pittsburgh Penguins at Arizona Coyotes 0112-6PM ET,http://gobr.ml:8080/Eduardo/1234/74399
+ext,NHL GAME 5: Toronto Maple Leafs at Florida Panthers 0112-7PM ET,http://gobr.ml:8080/Eduardo/1234/74398
+ext,NHL GAME 6: Tampa Bay Lighting at New Jersey Devils 0112-7PM ET,http://gobr.ml:8080/Eduardo/1234/74397
+ext,NHL GAME 7: NY Rangers at St Louis Blues 0111-8PM ET,http://gobr.ml:8080/Eduardo/1234/74396
+ext,NHL GAME 8: Anaheim Ducks at Chicago Blackhawks 0111-8:30PM ET,http://gobr.m…
